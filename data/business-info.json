@@ -1,0 +1,4457 @@
+{
+  "energy": {
+    "lao": [
+      {
+        "title": "ພະລັງງານນ້ຳ",
+        "image": "/images/business/energy/water/water-energy.png",
+        "index": "water-energy",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "ບໍລິສັດ ກຸ່ມດວງຈະເລີນພັດທະນາກໍ່ສ້າງ ຈຳກັດ ໄດ້ດຳເນີນທຸລະກິດພະລັງງານຢ່າງຍັ່ງຍືນ ດ້ວຍຄວາມໃສ່ໃຈຕໍ່ສິ່ງແວດລ້ອມ ແລະ ການພັດທະນາສັງຄົມ ເຊິ່່ງໝາຍເຖິງການຈະເລີນເຕີບໂຕຢ່າງຕໍ່ເນື່ອງ ແລະ ໝັນຄົງ ໂດຍໄດ້ຮັບການຍອມຮັບ ແລະ ການໃວ້ວາງໃຈຈາກທາງພັກ-ລັດ ບົນພື້ນຖານການດຳເນີນກິດຈະການທີ່ດີ ແລະ ມີຄວາມຮັບຜິດຊອບຕໍ່ສັງຄົມ."
+          },
+          {
+            "indicator": "title",
+            "desc": "ປະໂຫຍດ"
+          },
+          {
+            "indicator": "sub",
+            "desc": [
+              "ສາມາດຜະລິດພະລັງງານໄຟຟ້າສົ່ງອອກຂາຍພາຍໃນ ແລະ ຕ່າງປະເທດ.",
+              "ສາມາດບັນເທົາອຸທົກກະໄພໃນຍາມລະດູຝົນ.",
+              "ເປັນແຫຼ່ງເພາະພັນປານໍ້າຈືດຫຼາຍຊະນິດ.",
+              "ສ້າງວຽກເຮັດງານທຳໃຫ້ປະຊາຊົນໃນຂົງເຂດນັ້ນ."
+            ]
+          },
+          {
+            "indicator": "title",
+            "desc": "ນະໂຍບາຍການດຳເນີນທຸລະກິດແບບຢັ່ງຍືນ"
+          },
+          {
+            "indicator": "sub",
+            "desc": [
+              "ມຸ່ງໝັ້ນໃນການດຳເນີນງານທີ່ເປັນເລີດ.",
+              "ລຸດຜົນກະທົບເຊີງລົບ ແລະ ເພີ່ມຜົນກະທົບເຊີງບວກຕໍ່ປະຊາຊົນຜູ້ທີ່ຖືກຜົນກະທົບ, ຊຸມຊົນ ແລະ ສັງຄົມ."
+            ]
+          },
+          {
+            "indicator": "title",
+            "desc": "ຄວາມຮັບຜິດຊອບຕໍ່ສັງຄົມ"
+          },
+          {
+            "indicator": "main",
+            "desc": "ມີສ່ວນຮ່ວມຕໍ່ການພັດທະນາຊຸມຊົນ ແລະ ສັງຄົມ ເຊິ່ງເລີ່ມຈາກຊຸມຊົນໃນພື້ນທີ່ບໍລິເວນອ້ອມຮອບເຂື່ອນໄຟຟ້າ ໂດຍມີຂະບວນການປະເມີນຜົນ ແລະ ແກ້ໄຂຜົນກະທົບທີ່ອາດຈະເກີດຂຶ້ນຕໍ່ຊຸມຊົນຢ່າງຕໍ່ເນື່ອງ. ນອກຈາກນີ້ ຍັງມີການຮ່ວມມືກັບຊຸມຊົນ, ໜ່ວຍງານພັກ-ລັດທັງໃນລະດັບທ້ອງຖິ່ນ ແລະ ລະດັບປະເທດ ດຳເນີນໂຄງການເພື່ອຮ່ວມພັດທະນາຊີວິດການເປັນຢູ່ຂອງປະຊາຊົນໃນຫຼາຍຮູບແບບເຊັ່ນ :"
+          },
+          {
+            "indicator": "sub",
+            "desc": [
+              "ການສະໜັບສະໜູນການວ່າຈ້າງງານໃນທ້ອງຖິ່່ນ.",
+              "ການພັດທະນາເດັກນ້ອຍ ແລະ ເຍົາວະຊົນ.",
+              "ການພັດທະນາທັກຊະທີ່ເປັນປະໂຫຍດຕໍ່ການປະກອບອາຊີບ.",
+              "ການເສີມສ້າງສຸຂະອານະໄມທີ່ດີຕໍ່ຊຸມຊົນ.",
+              "ການອານຸລັກຊັບພະຍາກອນ ແລະ ສິ່ງແວດລ້ອມ."
+            ]
+          },
+          {
+            "indicator": "title",
+            "desc": "ຄວາມຮັບຜິດຊອບຕໍ່ສິ່ງແວດລ້ອມ"
+          },
+          {
+            "indicator": "main",
+            "desc": "ພວກເຮົາໄດ້ດຳເນີນການກ່ຽວກັບຜົນກະທົບດ້ານສິ່ງແວດລ້ອມ  (Environmental Impact Assessment: EIA) ກ່ອນເຂົ້າໄປດຳເນີນໂຄງການໃນພື້ນທີ່ຕ່າງໆເພື່ອສາມາດຈັດການຕໍ່ກັບຜົນກະທົບດ້ານສິ່ງແວດລ້ອມໄດ້ຢ່າງຄວບຄຸມ ແລະ ໄດ້ກຽມມາດຕະການການປ້ອງກັນຜົນກະທົບທີ່ອາດຈະເກີດຂຶ້ນຢ່າງມີປະສິດທິພາບເຊັ່ນ : ການຈັດການກັບຄຸນນະພາບອາກາດ, ການຈັດການຂີ້ເຫຍື້ອ, ການຈັດການນ້ຳ."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ເຂື່ອນໄຟຟ້ານ້ຳຮາວ",
+            "itemDetail": [],
+            "images": [
+              "/images/business/energy/water/dam-namhao-1.jpg",
+              "/images/business/energy/water/dam-namhao-2.jpg",
+              "/images/business/energy/water/dam-namhao-3.jpg",
+              "/images/business/energy/water/dam-namhao-4.jpg",
+              "/images/business/energy/water/dam-namhao-5.jpg",
+              "/images/business/energy/water/dam-namhao-6.jpg",
+              "/images/business/energy/water/dam-namhao-7.jpg",
+              "/images/business/energy/water/dam-namhao-8.jpg",
+              "/images/business/energy/water/dam-namhao-9.jpg"
+            ]
+          },
+          {
+            "name": "ເຂື່ອນໄຟຟ້ານ້ຳຮຸນ1",
+            "itemDetail": [],
+            "images": [
+              "/images/business/energy/water/dam-namhoun1-1.jpg",
+              "/images/business/energy/water/dam-namhoun1-2.jpg",
+              "/images/business/energy/water/dam-namhoun1-3.jpg"
+            ]
+          },
+          {
+            "name": "ເຂື່ອນໄຟຟ້ານ້ຳງາ",
+            "itemDetail": [],
+            "images": [
+              "/images/business/energy/water/dam-namnga-1.jpg",
+              "/images/business/energy/water/dam-namnga-2.jpg",
+              "/images/business/energy/water/dam-namnga-3.jpg"
+            ]
+          }
+        ]
+      }
+    ],
+    "english": [
+      {
+        "title": "Hydropower",
+        "image": "/images/business/energy/water/water-energy.png",
+        "index": "water-energy",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "Duangchalern Development and Construction Group Co., Ltd. has been conducting energy business for a long time with attention to the environment and social development, which means continuous and stable growth with acceptance and trust from the party-state on the basis of good business operations and social responsibility."
+          },
+          {
+            "indicator": "title",
+            "desc": "Advantage"
+          },
+          {
+            "indicator": "sub",
+            "desc": [
+              "Can produce electricity for export and sale domestically and abroad.",
+              "Can relieve floods during the rainy season.",
+              "It is a breeding ground for many types of freshwater fish.",
+              "Create jobs for people in that area."
+            ]
+          },
+          {
+            "indicator": "title",
+            "desc": "Sustainable business policy"
+          },
+          {
+            "indicator": "sub",
+            "desc": [
+              "Committed to operational excellence.",
+              "Reduce negative impacts and increase positive impacts on affected people, communities and society."
+            ]
+          },
+          {
+            "indicator": "title",
+            "desc": "Social responsibility"
+          },
+          {
+            "indicator": "main",
+            "desc": "Participating in community and social development which starts from the community in the area around the power plant with a continuous process of evaluating and resolving the impact that may occur on the community. In addition, there is cooperation with the community, party-state units at both the local and national levels to carry out projects to jointly develop people's lives in many ways, such as:"
+          },
+          {
+            "indicator": "sub",
+            "desc": [
+              "Supporting local employment.",
+              "Child and Youth Development.",
+              "Development of useful skills for employment.",
+              "Strengthening good health for the community.",
+              "Conservation of resources and the environment."
+            ]
+          },
+          {
+            "indicator": "title",
+            "desc": "Environmental responsibility"
+          },
+          {
+            "indicator": "main",
+            "desc": "We have carried out Environmental Impact Assessment (EIA) before starting projects in various areas in order to be able to deal with the environmental impact in a controlled manner and have prepared effective measures to prevent the effects that may occur such as dealing with air quality, waste management, water management."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "Nam Hao Hydropower",
+            "itemDetail": [],
+            "images": [
+              "/images/business/energy/water/dam-namhao-1.jpg",
+              "/images/business/energy/water/dam-namhao-2.jpg",
+              "/images/business/energy/water/dam-namhao-3.jpg",
+              "/images/business/energy/water/dam-namhao-4.jpg",
+              "/images/business/energy/water/dam-namhao-5.jpg",
+              "/images/business/energy/water/dam-namhao-6.jpg",
+              "/images/business/energy/water/dam-namhao-7.jpg",
+              "/images/business/energy/water/dam-namhao-8.jpg",
+              "/images/business/energy/water/dam-namhao-9.jpg"
+            ]
+          },
+          {
+            "name": "Nam Houn 1 Hydropower",
+            "itemDetail": [],
+            "images": [
+              "/images/business/energy/water/dam-namhoun1-1.jpg",
+              "/images/business/energy/water/dam-namhoun1-2.jpg",
+              "/images/business/energy/water/dam-namhoun1-3.jpg"
+            ]
+          },
+          {
+            "name": "Nam Ngar Hydropower",
+            "itemDetail": [],
+            "images": [
+              "/images/business/energy/water/dam-namnga-1.jpg",
+              "/images/business/energy/water/dam-namnga-2.jpg",
+              "/images/business/energy/water/dam-namnga-3.jpg"
+            ]
+          }
+        ]
+      }
+    ],
+    "chiness": [
+      {
+        "title": "水動力",
+        "image": "/images/business/energy/water/water-energy.png",
+        "index": "water-energy",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "Duangchalern 開發建設集團有限公司長期從事能源業務，關注環境和社會發展，這意味著在良好的業務基礎上得到黨國的認可和信任，持續穩定增長運營和社會責任。"
+          },
+          {
+            "indicator": "title",
+            "desc": "優勢"
+          },
+          {
+            "indicator": "sub",
+            "desc": [
+              "能夠生產電力供出口和國內外銷售。",
+              "可以在雨季緩解洪水。",
+              "它是多種淡水魚的來源。",
+              "為該地區的人們創造就業機會。"
+            ]
+          },
+          {
+            "indicator": "title",
+            "desc": "可持續經營政策"
+          },
+          {
+            "indicator": "sub",
+            "desc": [
+              "致力於卓越運營。",
+              "減少負面影響，增加對受影響人群、社區和社會的積極影響。"
+            ]
+          },
+          {
+            "indicator": "title",
+            "desc": "社會責任感"
+          },
+          {
+            "indicator": "main",
+            "desc": "參與社區和社會發展，從電廠周邊地區的社區開始，持續評估和解決可能對社區產生的影響。 此外，還與社區、地方和國家各級黨國單位合作，開展項目，以多種方式共同發展人民生活，例如："
+          },
+          {
+            "indicator": "sub",
+            "desc": [
+              "支持當地就業。",
+              "兒童和青少年發展",
+              "發展有用的就業技能。",
+              "增強社區的健康。",
+              "保護資源和環境。"
+            ]
+          },
+          {
+            "indicator": "title",
+            "desc": "環境責任"
+          },
+          {
+            "indicator": "main",
+            "desc": "我們在各地區項目開工前進行了環境影響評估（EIA），以便能夠以可控的方式處理環境影響，並準備了有效的措施來防止可能發生的影響，例如處理空氣質量，廢物管理，水資源管理。"
+          }
+        ],
+        "listItem": [
+          {
+            "name": "南浩水電",
+            "itemDetail": [],
+            "images": [
+              "/images/business/energy/water/dam-namhao-1.jpg",
+              "/images/business/energy/water/dam-namhao-2.jpg",
+              "/images/business/energy/water/dam-namhao-3.jpg",
+              "/images/business/energy/water/dam-namhao-4.jpg",
+              "/images/business/energy/water/dam-namhao-5.jpg",
+              "/images/business/energy/water/dam-namhao-6.jpg",
+              "/images/business/energy/water/dam-namhao-7.jpg",
+              "/images/business/energy/water/dam-namhao-8.jpg",
+              "/images/business/energy/water/dam-namhao-9.jpg"
+            ]
+          },
+          {
+            "name": "南勳 1 水電",
+            "itemDetail": [],
+            "images": [
+              "/images/business/energy/water/dam-namhoun1-1.jpg",
+              "/images/business/energy/water/dam-namhoun1-2.jpg",
+              "/images/business/energy/water/dam-namhoun1-3.jpg"
+            ]
+          },
+          {
+            "name": "南噶水電",
+            "itemDetail": [],
+            "images": [
+              "/images/business/energy/water/dam-namnga-1.jpg",
+              "/images/business/energy/water/dam-namnga-2.jpg",
+              "/images/business/energy/water/dam-namnga-3.jpg"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "construction": {
+    "lao": [
+      {
+        "title": "ກໍ່ສ້າງຂົວ-ທາງ",
+        "image": "/images/business/construction/bridge-road/bridge-road.jpeg",
+        "index": "bridge-road",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "ບໍລິສັດ ກຸ່ມດວງຈະເລີນພັດທະນາກໍ່ສ້າງ ຈຳກັດ ຜູ້ດຽວ ເປັນໜື່ງໃນບັນດາບໍລິສັດກໍ່ສ້າງທີ່ໄດ້ປະກອບສ່ວນຢ່າງຕັ້ງໜ້າໃນການກໍ່ສ້າງ ແລະ ພັດທະນາພື້ນຖານໂຄງລ່າງອັນໄດ້ສ້າງຄວາມຈະເລີນເຕີບໂຕທາງເສດຖະກິດ ແລະ ການພັດທະນາເສດຖະກິດສັງຄົມຂອງຫລາຍໆແຂວງ ໃນ ສ ປ ປ ລາວ ທີ່ບໍລິສັດໄດ້ດໍາເນີນການກໍ່ສ້າງ ແລະ ປັບປຸງເສັ້ນທາງ ບໍ່ວ່າຈະເປັນເສັ້ນທາງປະເພດປູຢາງ, ທາງຄອນກີດ ແລະ ອື່ນໆ ໂດຍໄດ້ມີການນຳເອົາເຄື່ອງຈັກ, ເທັກໂນໂລຊີທີ່ທັນສະໄໝລວມເຖິງເທັກນິກການກໍ່ສ້າງສະໄໝໃໝ່ເຂົ້າມາໃຊ້ໃນວຽກງານການກໍ່ສ້າງຂອງບໍລິສັດ ເພື່ອສ້າງສັນຜົນງານທີ່ມີຄຸນນະພາບ ແລະ ສຳເລັດຕົງຕາມເວລາທີ່ກຳນົດ. ໃນນັ້ນ, ໂຄງການທີ່ພົ້ນເດັ່ນແມ່ນໂຄງການກໍ່ສ້າງເສັ້ນ ທາງ 450 ປີ ເຊິ່ງເປັນໜື່ງໃນໂຄງການກໍ່ສ້າງທີ່ສໍາຄັນຂອງລັດຖະບານເພື່ອສະເຫລີມສະຫລອງຄົບຮອບ 450 ປີ ວຽງຈັນເປັນນະຄອນຫຼວງຂອງ ສ ປ ປ ລາວ. ນອກນັ້ນກໍຍັງມີເສັ້ນທາງຍຸດທະສາດທີ່ສໍາຄັນຂອງລັດຖະບານ ທີ່ບໍລິສັດໄດ້ກໍ່ສ້າງສໍາເລັດເຊັ່ນ : ເສັ້ນທາງ 1D, ເສັ້ນທາງຈາກເມືອງວຽງທອງ ຫາ ເມືອງໄຊຈໍາພອນ ແຂວງບໍລິຄໍາໄຊ ແລະ ໂຄງການກໍ່ສ້າງທາງຈາກເມືອງປາກລາຍ ຫາ ເມືອງທົ່ງມີໄຊແຂວງໄຊຍະບູລີ."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ 1D ເມືອງທ່າໂທມ ແຂວງຊຽງຂວາງ ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/road-1d-thathom-xiengkuang-1.jpg",
+              "/images/business/construction/bridge-road/road-1d-thathom-xiengkuang-2.jpg",
+              "/images/business/construction/bridge-road/road-1d-thathom-xiengkuang-3.jpg",
+              "/images/business/construction/bridge-road/road-1d-thathom-xiengkuang-4.jpg",
+              "/images/business/construction/bridge-road/road-1d-thathom-xiengkuang-5.jpg"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ເຂື່ອນໄຟຟ້ານໍ້າຄານ 2&3 ເມືອງຊຽງເງິນ ແຂວງຫລວງພະບາງ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ລັດວິສາຫະກິດໄຟຟ້າລາວ ມະຫາຊົນ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ເສັ້ນທາງເບີ 1 ແຕ່ສີ່ແຍກບ້ານປາກແຮດຜ່ານບ້ານຈັດສັນ ຫາ ແຄ້ມພະນັກງານເຂື່ອນໄຟຟ້ານໍ້າຄານ 3, ເສັ້ນທາງເບີ 2 ແຕ່ທ່າເຮືອແກ້ງກຸ້ງ ຫາ ເຂື່ອນໄຟຟ້ານໍ້າຄານ 2, ເສັ້ນທາງເບີ 3 ແຕ່ເຂື່ອນໄຟຟ້ານໍ້າຄານ 2 ຫາ ບ້ານພູຊ້າງ ເມືອງຊຽງເງິນ ແຂວງຫຼວງພະບາງ, ເບີ 4 ແຕ່ສາມແຍກທາງລົງຂົວບ້ານໜອງຕີ ຫາ ສາມແຍກທາງຂື້ນໄປຫາສັນເຂື່ອນ ແລະ ບ້ານພູຊ້າງ."
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": "ທາງປູຢາງ 2 ຊັ້ນ.."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "20,999,362,528 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "24  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/road-of-namkhan-dam-23-1.png",
+              "/images/business/construction/bridge-road/road-of-namkhan-dam-23-2.png",
+              "/images/business/construction/bridge-road/road-of-namkhan-dam-23-3.png",
+              "/images/business/construction/bridge-road/road-of-namkhan-dam-23-4.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ເມືອງຜົ້ງສາລີ ຫາ ຊາຍແດນນ້ຳບຸງ ສສ ຫວຽດນາມ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກ ໂຍທາທິການ ແລະ ຂົນສົ່ງ ແຂວງຜົ້ງສາລີ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ເມືອງຜົ້ງສາລີ ຫາ ຊາຍແດນນໍ້າບຸງ ສສ ຫວຽດນາມ."
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": "ປູດ້ວຍຫີນແຮ່."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "388,035,792,972 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "48  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/road-phongsaly-to-vietname-1.jpg",
+              "/images/business/construction/bridge-road/road-phongsaly-to-vietname-2.jpg",
+              "/images/business/construction/bridge-road/road-phongsaly-to-vietname-3.jpg"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງຂຶ້ນ-ລົງເຄື່ອງບິນ ໃນສະໜາມບິນ ເມືອງຫ້ວຍຊາຍ ແຂວງບໍ່ແກ້ວ ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກ ໂຍທາທິການ ແລະ ຂົນສົ່ງ ແຂວງບໍ່ແກ້ວ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ເມືອງຫ້ວຍຊາຍ ແຂວງບໍ່ແກ້ວ."
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": "ປູດ້ວຍຢາງອາດສະຟານ (Asphalt)."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "149,800,000,000 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "26  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/airport-borkeo-1.jpg",
+              "/images/business/construction/bridge-road/airport-borkeo-2.jpg",
+              "/images/business/construction/bridge-road/airport-borkeo-3.jpg",
+              "/images/business/construction/bridge-road/airport-borkeo-4.jpg"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ເມືອງປາກລາຍ-ເມືອງທົ່ງມີໄຊ ແຂວງໄຊຍະບູລີ ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-1.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-2.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-3.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-4.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-5.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-6.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-7.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-8.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-9.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-10.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-11.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ເທດສະບານນ້ຳອ້ອນ ເມືອງໄຊຈຳພອນ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/namon-xaichamphone-1.png",
+              "/images/business/construction/bridge-road/namon-xaichamphone-2.png",
+              "/images/business/construction/bridge-road/namon-xaichamphone-3.png",
+              "/images/business/construction/bridge-road/namon-xaichamphone-4.png",
+              "/images/business/construction/bridge-road/namon-xaichamphone-5.png",
+              "/images/business/construction/bridge-road/namon-xaichamphone-6.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການສຳຫຼວດ-ອອກແບບເສັ້ນທາງເຂົ້າເຂື່ອນນ້ຳຄານ 2",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/explore-road-namkhan2-1.png",
+              "/images/business/construction/bridge-road/explore-road-namkhan2-2.png",
+              "/images/business/construction/bridge-road/explore-road-namkhan2-3.png",
+              "/images/business/construction/bridge-road/explore-road-namkhan2-4.png",
+              "/images/business/construction/bridge-road/explore-road-namkhan2-5.png",
+              "/images/business/construction/bridge-road/explore-road-namkhan2-6.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການທາງເບຕົງ ແຂວງໄຊສົມບູນ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-1.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-2.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-3.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-4.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-5.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-6.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-7.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-8.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-9.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ເມືອງເຟືອງ-ເມືອງແມດ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/feung-made-1.png",
+              "/images/business/construction/bridge-road/feung-made-2.png",
+              "/images/business/construction/bridge-road/feung-made-3.png",
+              "/images/business/construction/bridge-road/feung-made-4.png",
+              "/images/business/construction/bridge-road/feung-made-5.png",
+              "/images/business/construction/bridge-road/feung-made-6.png",
+              "/images/business/construction/bridge-road/feung-made-7.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ວຽງທອງ 1",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/viengthong-1.png",
+              "/images/business/construction/bridge-road/viengthong-2.png",
+              "/images/business/construction/bridge-road/viengthong-3.png",
+              "/images/business/construction/bridge-road/viengthong-4.png",
+              "/images/business/construction/bridge-road/viengthong-5.png",
+              "/images/business/construction/bridge-road/viengthong-6.png",
+              "/images/business/construction/bridge-road/viengthong-7.png"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "ກໍ່ສ້າງເຄຫະສະຖານ",
+        "image": "/images/business/construction/building/building.jpg",
+        "index": "building",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "ວຽກງານກໍ່ສ້າງອາຄານເຄຫາສະຖານກໍ່ເປັນອີກວຽກງານກໍ່ສ້າງໜື່ງທີ່ ບໍລິສັດ ກຸ່ມດວງຈະເລີນພັດທະນາກໍ່ສ້າງ ຈຳກັດ ຜູ້ດຽວ ໄດ້ໃຫ້ບໍລິການແກ່ທັງໜ່ວຍງານພັກລັດ ແລະ ເອກະຊົນດ້ວຍຜົນງານທີ່ມີຄຸນນະພາບ, ສວາຍງາມ ແລະ ສໍາເລັດຕົງຕໍ່ເວລາ. ບາງໂຄງການກໍ່ສ້າງອາຄານ ແລະ ເຄຫາສະຖານທີ່ສໍາຄັນທີ່ບໍລິສັດພວກເຮົາໄດ້ຮັບເໝົາກໍ່ສ້າງ ແລະ ມອບຮັບໃຫ້ເຈົ້າຂອງໂຄງການສໍາເລັດແລ້ວປະກອບມີໂຄງການ: ນັກຮົບພູຄູນ, ຕຶກຫ້ອງການໃຫຍ່ກົມໃຫຍ່ເສນາ, ຕຶກອາຄານຫ້ອງການຂອງບໍລິສັດລາວສະກາຍເວ."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ກໍ່ສ້າງຫ້ອງການ ແລະ ສະໂມສອນ ລັດວິສາຫະກິດລາວເດີນອາກາດ (ລາວສະກາຍເວ)",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "."
+              },
+              {
+                "title": "ລັກສະນະໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/building/skyway-office-1.png",
+              "/images/business/construction/building/skyway-office-2.png",
+              "/images/business/construction/building/skyway-office-3.png"
+            ]
+          },
+          {
+            "name": "ກໍ່ສ້າງອາຄານຫ້ອງການດ່ານສາກົນນໍ້າອ້ອນ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກ ໂຍທາທິການ ແລະ ຂົນສົ່ງ ແຂວງບໍລິຄໍາໄຊ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ດ່ານນໍ້າອ້ອນສາກົນ ຊາຍແດນແທງທຸຍ ສສ ຫວຽດນາມ."
+              },
+              {
+                "title": "ລັກສະນະໂຄງການ",
+                "desc": "ກໍ່ສ້າງອາຄານຫ້ອງການ."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "10,010,000,000 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "12  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/building/immigration-namaom-1.png",
+              "/images/business/construction/building/immigration-namaom-2.png",
+              "/images/business/construction/building/immigration-namaom-3.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການພັດທະນາເຂດດົງໂດກ ໂຊນ 1",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກ ໂຍທາທິການ ແລະ ຂົນສົ່ງ ແຂວງບໍລິຄໍາໄຊ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ດ່ານນໍ້າອ້ອນສາກົນ ຊາຍແດນແທງທຸຍ ສສ ຫວຽດນາມ."
+              },
+              {
+                "title": "ລັກສະນະໂຄງການ",
+                "desc": "ກໍ່ສ້າງອາຄານຫ້ອງການ."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "10,010,000,000 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "12  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/building/dongdok-area-zone1-1.png",
+              "/images/business/construction/building/dongdok-area-zone1-2.png",
+              "/images/business/construction/building/dongdok-area-zone1-3.png",
+              "/images/business/construction/building/dongdok-area-zone1-4.png",
+              "/images/business/construction/building/dongdok-area-zone1-5.png",
+              "/images/business/construction/building/dongdok-area-zone1-6.png",
+              "/images/business/construction/building/dongdok-area-zone1-7.png",
+              "/images/business/construction/building/dongdok-area-zone1-8.png",
+              "/images/business/construction/building/dongdok-area-zone1-9.png",
+              "/images/business/construction/building/dongdok-area-zone1-10.png",
+              "/images/business/construction/building/dongdok-area-zone1-11.png",
+              "/images/business/construction/building/dongdok-area-zone1-12.png",
+              "/images/business/construction/building/dongdok-area-zone1-13.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການພັດທະນາເຂດດົງໂດກ ໂຊນ 2",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກ ໂຍທາທິການ ແລະ ຂົນສົ່ງ ແຂວງບໍລິຄໍາໄຊ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ດ່ານນໍ້າອ້ອນສາກົນ ຊາຍແດນແທງທຸຍ ສສ ຫວຽດນາມ."
+              },
+              {
+                "title": "ລັກສະນະໂຄງການ",
+                "desc": "ກໍ່ສ້າງອາຄານຫ້ອງການ."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "10,010,000,000 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "12  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/building/dongdok-area-zone2-1.png",
+              "/images/business/construction/building/dongdok-area-zone2-2.png",
+              "/images/business/construction/building/dongdok-area-zone2-3.png",
+              "/images/business/construction/building/dongdok-area-zone2-4.png",
+              "/images/business/construction/building/dongdok-area-zone2-5.png",
+              "/images/business/construction/building/dongdok-area-zone2-6.png"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "ກໍ່ສ້າງຊົນລະປະທານ",
+        "image": "/images/business/construction/irrigation/irrigation.jpg",
+        "index": "irrigation",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "ຄຽງຄູ່ກັບການກໍ່ສ້າງຂົວທາງ, ວຽກງານກໍ່ສ້າງຊົນລະປະທານກໍ່ເປັນອີກວຽກງານໜື່ງທີ່ ບໍລິສັດ ກຸ່ມດວງຈະເລີນພັດທະນາກໍ່ສ້າງ ຈຳກັດ ຜູ້ດຽວ ໄດ້ເອົາໃຈໃສ່ ແລະ ໃຫ້ຄວາມສໍາຄັນ ເພື່ອເປັນການຊ່ວຍເຫລືອໃຫ້ປະຊາຊົນທ້ອງຖິ່ນ ໂດຍສະເພາະຊາວກະສິກອນໄດ້ມີນໍ້າໃຊ້ພຽງພໍເຂົ້າໃນການປະກອບອາຊີບປູກຝັງ ແລະ ລ້ຽງສັດ ເພື່ອເປັນການປະກອບສ່ວນໃນການຮັບປະກັນທາງດ້ານສະບຽງອາຫານໃຫ້ພຽງພໍຕາມແນວທາງນະໂຍບາຍຂອງພັກລັດ. ເຊິ່ງຜ່ານມາ ບໍລິສັດໄດ້ກໍ່ສ້າງສໍາເລັດໂຄງການຊົນລະປະທານຫຼາຍໂຄງການຢູ່ຫລາຍແຂວງທົ່ວປະເທດ ເປັນຕົ້ນແມ່ນ ຊົນລະປະທານຫ້ວຍໂຊ້ ເມືອງປາກລາຍ ແຂວງໄຊຍະບູລີ."
+          },
+          {
+            "indicator": "main",
+            "desc": "ປະຈຸບັນ ບໍລິສັດພວກເຮົາຍັງກໍາລັງສືກສາ, ສໍາຫລວດ ແລະ ວາງແຜນເພື່ອກໍ່ສ້າງຊົນລະປະທານຢູ່ເຂດ ບ້ານນໍ້າຍູ້ ເມືອງຫວ້ຍຊາຍ ແຂວງບໍ່ແກ້ວ ໃນເນື້ອທີ່ທັງໝົດ 1,600 ເຮັກຕາ. ຄາດຄະເນພາຍຫຼັງໂຄງການດັ່ງກ່າວໄດ້ຮັບການກໍ່ສ້າງສໍາເລັດຈະສາມາດສະໜອງນໍ້າພຽງພໍໃຫ້ແກ່ການປູກຝັງໃນເນື້ອທີ່ປະມານ 150 ເຮັກຕາຂຶ້ນໄປ."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ກໍ່ສ້າງຊົນລະປະທານລະບົບຄອງເໝືອງ, ອ່າງເກັບນໍ້າຫ້ວຍໂຊ້ ບ້ານເມືອງປາ ເມືອງປາກລາຍ ແຂວງໄຊຍະບູລີ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກກະສິກຳ ແລະ ປ່າໄມ້ ແຂວງໄຊຍະບູລີ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ບ້ານເມືອງປາ ເມືອງປາກລາຍ ແຂວງໄຊຍະບູລີ."
+              },
+              {
+                "title": "ພື້ນທີ່ໂຄງການ",
+                "desc": "4,957.46 ແມັດ."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "15,993,105,244 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "18  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍ່ສ້າງສໍາເລັດແລ້ວ."
+              },
+              {
+                "title": "ປະລິມານກັກເກັບນ້ຳ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ"
+              },
+              {
+                "title": "ພື້້ນທີ່ໄດ້ຮັບຜົນປະໂຫຍດ",
+                "desc": "ສະໜອງນໍ້າໃຫ້ແກ່ການຜະລິດກະສິກຳຂອງປະຊາຊົນ 3 ບ້ານ ຄື: ບ້ານເມືອງປາ, ບ້ານ ນໍ້າປາ ແລະ ບ້ານນາຈັນ ຈໍານວນ 543 ຄອບຄົວ.."
+              }
+            ],
+            "images": [
+              "/images/business/construction/irrigation/huayxo-xyl-1.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-2.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-3.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-4.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-5.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-6.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-7.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "ກໍ່ສ້າງທາງດ່ວນ",
+        "image": "/images/business/construction/highway/highway.png",
+        "index": "highway",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "ບໍລິສັດ ກຸ່ມດວງຈະເລີນ ເປັນໜື່ງໃນບັນດາບໍລິສັດກໍ່ສ້າງທີ່ໄດ້ປະກອບສ່ວນໃນການກໍ່ສ້າງ ແລະ ພັດທະນາພື້ນຖານໂຄງລ່າງອັນໄດ້ສ້າງຄວາມຈະເລີນເຕີບໂຕທາງເສດຖະກິດ ແລະ ການພັດທະນາເສດຖະກິດສັງຄົມຂອງຫລາຍໆແຂວງ ໃນ ສ ປ ປ ລາວ ທີ່ບໍລິສັດໄດ້ດໍາເນີນການກໍ່ສ້າງ ແລະ ປັບປຸງເສັ້ນທາງ ລວມທັງມີເຄື່ອງຈັກທີ່ຮອງຮັບການເຮັດວຽກປະເພດນີ້ເປັນຢ່າງດີ ສົ່ງຜົນໃຫ້ບໍລິສັດໄດ້ຮັບຄວາມໄວ້ວາງໃຈຈາກ ລັດຖະບານ, ເອກະຊົນ ເເລະ ອົງກອນຕ່າງໆ ໃຫ້ເປັນຜູ້ດຳເນີນການກໍ່ສ້າງທາງດ່ວນ."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ໂຄງການກໍ່ສ້າງທາງດ່ວນ ນະຄອນຫຼວງວຽງຈັນ-ປາກຊັນ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ພື້ນທີ່ໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ປະລິມານກັກເກັບນ້ຳ",
+                "desc": ""
+              },
+              {
+                "title": "ພື້້ນທີ່ໄດ້ຮັບຜົນປະໂຫຍດ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/highway/vientiane-parkson-1.png",
+              "/images/business/construction/highway/vientiane-parkson-2.png",
+              "/images/business/construction/highway/vientiane-parkson-3.png",
+              "/images/business/construction/highway/vientiane-parkson-4.png",
+              "/images/business/construction/highway/vientiane-parkson-5.png",
+              "/images/business/construction/highway/vientiane-parkson-6.png",
+              "/images/business/construction/highway/vientiane-parkson-7.png",
+              "/images/business/construction/highway/vientiane-parkson-8.png",
+              "/images/business/construction/highway/vientiane-parkson-9.png",
+              "/images/business/construction/highway/vientiane-parkson-10.png"
+            ]
+          }
+        ]
+      }
+    ],
+    "english": [
+      {
+        "title": "Road-Bridge",
+        "image": "/images/business/construction/bridge-road/bridge-road.jpeg",
+        "index": "bridge-road",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "Duang Charoen Construction Development Group Co., Ltd. is one of the construction companies that have actively contributed to the construction and development of infrastructure that has created economic growth and social economic development in many provinces in the Lao PDR. The company has been building and improving roads, whether they are asphalt roads, concrete roads, etc., by bringing machines, modern technology, including modern construction techniques, to use in the company's construction work to create quality work and complete it on time. Among them, the prominent project is the 450-year road construction project, which is one of the government's important construction projects to celebrate the 450th anniversary of Vientiane as the capital of the Lao People's Democratic Republic. There are also important strategic roads of the government that the company has completed, such as: 1D road, the road from Viengthong to Xay Champhon, Borikhamxay province and the road construction project from Pak Lai to Tham Mixay, Xayabuli province."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ 1D ເມືອງທ່າໂທມ ແຂວງຊຽງຂວາງ ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/road-1d-thathom-xiengkuang-1.jpg",
+              "/images/business/construction/bridge-road/road-1d-thathom-xiengkuang-2.jpg",
+              "/images/business/construction/bridge-road/road-1d-thathom-xiengkuang-3.jpg",
+              "/images/business/construction/bridge-road/road-1d-thathom-xiengkuang-4.jpg",
+              "/images/business/construction/bridge-road/road-1d-thathom-xiengkuang-5.jpg"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ເຂື່ອນໄຟຟ້ານໍ້າຄານ 2&3 ເມືອງຊຽງເງິນ ແຂວງຫລວງພະບາງ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ລັດວິສາຫະກິດໄຟຟ້າລາວ ມະຫາຊົນ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ເສັ້ນທາງເບີ 1 ແຕ່ສີ່ແຍກບ້ານປາກແຮດຜ່ານບ້ານຈັດສັນ ຫາ ແຄ້ມພະນັກງານເຂື່ອນໄຟຟ້ານໍ້າຄານ 3, ເສັ້ນທາງເບີ 2 ແຕ່ທ່າເຮືອແກ້ງກຸ້ງ ຫາ ເຂື່ອນໄຟຟ້ານໍ້າຄານ 2, ເສັ້ນທາງເບີ 3 ແຕ່ເຂື່ອນໄຟຟ້ານໍ້າຄານ 2 ຫາ ບ້ານພູຊ້າງ ເມືອງຊຽງເງິນ ແຂວງຫຼວງພະບາງ, ເບີ 4 ແຕ່ສາມແຍກທາງລົງຂົວບ້ານໜອງຕີ ຫາ ສາມແຍກທາງຂື້ນໄປຫາສັນເຂື່ອນ ແລະ ບ້ານພູຊ້າງ."
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": "ທາງປູຢາງ 2 ຊັ້ນ.."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "20,999,362,528 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "24  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/road-of-namkhan-dam-23-1.png",
+              "/images/business/construction/bridge-road/road-of-namkhan-dam-23-2.png",
+              "/images/business/construction/bridge-road/road-of-namkhan-dam-23-3.png",
+              "/images/business/construction/bridge-road/road-of-namkhan-dam-23-4.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ເມືອງຜົ້ງສາລີ ຫາ ຊາຍແດນນ້ຳບຸງ ສສ ຫວຽດນາມ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກ ໂຍທາທິການ ແລະ ຂົນສົ່ງ ແຂວງຜົ້ງສາລີ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ເມືອງຜົ້ງສາລີ ຫາ ຊາຍແດນນໍ້າບຸງ ສສ ຫວຽດນາມ."
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": "ປູດ້ວຍຫີນແຮ່."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "388,035,792,972 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "48  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/road-phongsaly-to-vietname-1.jpg",
+              "/images/business/construction/bridge-road/road-phongsaly-to-vietname-2.jpg",
+              "/images/business/construction/bridge-road/road-phongsaly-to-vietname-3.jpg"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງຂຶ້ນ-ລົງເຄື່ອງບິນ ໃນສະໜາມບິນ ເມືອງຫ້ວຍຊາຍ ແຂວງບໍ່ແກ້ວ ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກ ໂຍທາທິການ ແລະ ຂົນສົ່ງ ແຂວງບໍ່ແກ້ວ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ເມືອງຫ້ວຍຊາຍ ແຂວງບໍ່ແກ້ວ."
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": "ປູດ້ວຍຢາງອາດສະຟານ (Asphalt)."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "149,800,000,000 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "26  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/airport-borkeo-1.jpg",
+              "/images/business/construction/bridge-road/airport-borkeo-2.jpg",
+              "/images/business/construction/bridge-road/airport-borkeo-3.jpg",
+              "/images/business/construction/bridge-road/airport-borkeo-4.jpg"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ເມືອງປາກລາຍ-ເມືອງທົ່ງມີໄຊ ແຂວງໄຊຍະບູລີ ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-1.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-2.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-3.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-4.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-5.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-6.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-7.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-8.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-9.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-10.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-11.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ເທດສະບານນ້ຳອ້ອນ ເມືອງໄຊຈຳພອນ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/namon-xaichamphone-1.png",
+              "/images/business/construction/bridge-road/namon-xaichamphone-2.png",
+              "/images/business/construction/bridge-road/namon-xaichamphone-3.png",
+              "/images/business/construction/bridge-road/namon-xaichamphone-4.png",
+              "/images/business/construction/bridge-road/namon-xaichamphone-5.png",
+              "/images/business/construction/bridge-road/namon-xaichamphone-6.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການສຳຫຼວດ-ອອກແບບເສັ້ນທາງເຂົ້າເຂື່ອນນ້ຳຄານ 2",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/explore-road-namkhan2-1.png",
+              "/images/business/construction/bridge-road/explore-road-namkhan2-2.png",
+              "/images/business/construction/bridge-road/explore-road-namkhan2-3.png",
+              "/images/business/construction/bridge-road/explore-road-namkhan2-4.png",
+              "/images/business/construction/bridge-road/explore-road-namkhan2-5.png",
+              "/images/business/construction/bridge-road/explore-road-namkhan2-6.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການທາງເບຕົງ ແຂວງໄຊສົມບູນ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-1.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-2.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-3.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-4.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-5.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-6.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-7.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-8.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-9.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ເມືອງເຟືອງ-ເມືອງແມດ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/feung-made-1.png",
+              "/images/business/construction/bridge-road/feung-made-2.png",
+              "/images/business/construction/bridge-road/feung-made-3.png",
+              "/images/business/construction/bridge-road/feung-made-4.png",
+              "/images/business/construction/bridge-road/feung-made-5.png",
+              "/images/business/construction/bridge-road/feung-made-6.png",
+              "/images/business/construction/bridge-road/feung-made-7.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ວຽງທອງ 1",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/viengthong-1.png",
+              "/images/business/construction/bridge-road/viengthong-2.png",
+              "/images/business/construction/bridge-road/viengthong-3.png",
+              "/images/business/construction/bridge-road/viengthong-4.png",
+              "/images/business/construction/bridge-road/viengthong-5.png",
+              "/images/business/construction/bridge-road/viengthong-6.png",
+              "/images/business/construction/bridge-road/viengthong-7.png"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Building",
+        "image": "/images/business/construction/building/building.jpg",
+        "index": "building",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "The building construction work is another construction work that Duangchalern Development Construction Co., Ltd. has provided services to both public and private entities with quality work, beautiful and completed on time. Some of the important construction projects of buildings and facilities that our company has been contracted and handed over to the project owner include: Phu Khun Warriors, Army General Office Building, Lao Skyway Company Office Building."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ກໍ່ສ້າງຫ້ອງການ ແລະ ສະໂມສອນ ລັດວິສາຫະກິດລາວເດີນອາກາດ (ລາວສະກາຍເວ)",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "."
+              },
+              {
+                "title": "ລັກສະນະໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/building/skyway-office-1.png",
+              "/images/business/construction/building/skyway-office-2.png",
+              "/images/business/construction/building/skyway-office-3.png"
+            ]
+          },
+          {
+            "name": "ກໍ່ສ້າງອາຄານຫ້ອງການດ່ານສາກົນນໍ້າອ້ອນ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກ ໂຍທາທິການ ແລະ ຂົນສົ່ງ ແຂວງບໍລິຄໍາໄຊ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ດ່ານນໍ້າອ້ອນສາກົນ ຊາຍແດນແທງທຸຍ ສສ ຫວຽດນາມ."
+              },
+              {
+                "title": "ລັກສະນະໂຄງການ",
+                "desc": "ກໍ່ສ້າງອາຄານຫ້ອງການ."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "10,010,000,000 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "12  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/building/immigration-namaom-1.png",
+              "/images/business/construction/building/immigration-namaom-2.png",
+              "/images/business/construction/building/immigration-namaom-3.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການພັດທະນາເຂດດົງໂດກ ໂຊນ 1",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກ ໂຍທາທິການ ແລະ ຂົນສົ່ງ ແຂວງບໍລິຄໍາໄຊ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ດ່ານນໍ້າອ້ອນສາກົນ ຊາຍແດນແທງທຸຍ ສສ ຫວຽດນາມ."
+              },
+              {
+                "title": "ລັກສະນະໂຄງການ",
+                "desc": "ກໍ່ສ້າງອາຄານຫ້ອງການ."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "10,010,000,000 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "12  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/building/dongdok-area-zone1-1.png",
+              "/images/business/construction/building/dongdok-area-zone1-2.png",
+              "/images/business/construction/building/dongdok-area-zone1-3.png",
+              "/images/business/construction/building/dongdok-area-zone1-4.png",
+              "/images/business/construction/building/dongdok-area-zone1-5.png",
+              "/images/business/construction/building/dongdok-area-zone1-6.png",
+              "/images/business/construction/building/dongdok-area-zone1-7.png",
+              "/images/business/construction/building/dongdok-area-zone1-8.png",
+              "/images/business/construction/building/dongdok-area-zone1-9.png",
+              "/images/business/construction/building/dongdok-area-zone1-10.png",
+              "/images/business/construction/building/dongdok-area-zone1-11.png",
+              "/images/business/construction/building/dongdok-area-zone1-12.png",
+              "/images/business/construction/building/dongdok-area-zone1-13.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການພັດທະນາເຂດດົງໂດກ ໂຊນ 2",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກ ໂຍທາທິການ ແລະ ຂົນສົ່ງ ແຂວງບໍລິຄໍາໄຊ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ດ່ານນໍ້າອ້ອນສາກົນ ຊາຍແດນແທງທຸຍ ສສ ຫວຽດນາມ."
+              },
+              {
+                "title": "ລັກສະນະໂຄງການ",
+                "desc": "ກໍ່ສ້າງອາຄານຫ້ອງການ."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "10,010,000,000 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "12  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/building/dongdok-area-zone2-1.png",
+              "/images/business/construction/building/dongdok-area-zone2-2.png",
+              "/images/business/construction/building/dongdok-area-zone2-3.png",
+              "/images/business/construction/building/dongdok-area-zone2-4.png",
+              "/images/business/construction/building/dongdok-area-zone2-5.png",
+              "/images/business/construction/building/dongdok-area-zone2-6.png"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Irrigation",
+        "image": "/images/business/construction/irrigation/irrigation.jpg",
+        "index": "irrigation",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "Along with the construction of the road bridge, the construction of irrigation is another work that the Duang Charoen Development Construction Group Co., Ltd. has paid attention to and given importance to help the local people, especially the farmers to have enough water for farming and animal husbandry to contribute to ensuring sufficient food according to the policy of the state party. In the past, the company has completed many irrigation projects in many provinces across the country, such as Huai So irrigation in Pak Lai District, Xayabuli Province."
+          },
+          {
+            "indicator": "main",
+            "desc": "Currently, our company is still studying, surveying and planning to build an irrigation system in the area of Nam Chak Village, Huai Xai District, Bo Keo Province in a total area of 1,600 hectares. It is estimated that after the project is completed, it will be able to provide enough water for cultivation in an area of about 150 hectares or more."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ກໍ່ສ້າງຊົນລະປະທານລະບົບຄອງເໝືອງ, ອ່າງເກັບນໍ້າຫ້ວຍໂຊ້ ບ້ານເມືອງປາ ເມືອງປາກລາຍ ແຂວງໄຊຍະບູລີ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກກະສິກຳ ແລະ ປ່າໄມ້ ແຂວງໄຊຍະບູລີ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ບ້ານເມືອງປາ ເມືອງປາກລາຍ ແຂວງໄຊຍະບູລີ."
+              },
+              {
+                "title": "ພື້ນທີ່ໂຄງການ",
+                "desc": "4,957.46 ແມັດ."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "15,993,105,244 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "18  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍ່ສ້າງສໍາເລັດແລ້ວ."
+              },
+              {
+                "title": "ປະລິມານກັກເກັບນ້ຳ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ"
+              },
+              {
+                "title": "ພື້້ນທີ່ໄດ້ຮັບຜົນປະໂຫຍດ",
+                "desc": "ສະໜອງນໍ້າໃຫ້ແກ່ການຜະລິດກະສິກຳຂອງປະຊາຊົນ 3 ບ້ານ ຄື: ບ້ານເມືອງປາ, ບ້ານ ນໍ້າປາ ແລະ ບ້ານນາຈັນ ຈໍານວນ 543 ຄອບຄົວ.."
+              }
+            ],
+            "images": [
+              "/images/business/construction/irrigation/huayxo-xyl-1.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-2.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-3.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-4.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-5.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-6.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-7.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Highway",
+        "image": "/images/business/construction/highway/highway.png",
+        "index": "highway",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "Duangchalern Group Company is one of the construction companies that have contributed to the construction and development of infrastructure that has created economic growth and social economic development in many provinces in Lao PDR. The company has built and improved roads, including machines that support this type of work well. As a result, the company has received the trust of the government, private sector and various organizations to be the operator of highway construction."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ໂຄງການກໍ່ສ້າງທາງດ່ວນ ນະຄອນຫຼວງວຽງຈັນ-ປາກຊັນ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ພື້ນທີ່ໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ປະລິມານກັກເກັບນ້ຳ",
+                "desc": ""
+              },
+              {
+                "title": "ພື້້ນທີ່ໄດ້ຮັບຜົນປະໂຫຍດ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/highway/vientiane-parkson-1.png",
+              "/images/business/construction/highway/vientiane-parkson-2.png",
+              "/images/business/construction/highway/vientiane-parkson-3.png",
+              "/images/business/construction/highway/vientiane-parkson-4.png",
+              "/images/business/construction/highway/vientiane-parkson-5.png",
+              "/images/business/construction/highway/vientiane-parkson-6.png",
+              "/images/business/construction/highway/vientiane-parkson-7.png",
+              "/images/business/construction/highway/vientiane-parkson-8.png",
+              "/images/business/construction/highway/vientiane-parkson-9.png",
+              "/images/business/construction/highway/vientiane-parkson-10.png"
+            ]
+          }
+        ]
+      }
+    ],
+    "chiness": [
+      {
+        "title": "修橋路",
+        "image": "/images/business/construction/bridge-road/bridge-road.jpeg",
+        "index": "bridge-road",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "Duang Charoen Construction Development Group Co., Ltd. 是為老撾多個省份的經濟增長和社會經濟發展積極貢獻基礎設施建設和發展的建築公司之一。改善道路，無論是柏油路、混凝土路等，通過引進機器、現代技術，包括現代施工技術，在公司的施工工作中使用，以創造高質量的工作並按時完成。其中，突出的項目是450年公路建設工程，這是政府慶祝老撾人民民主共和國首都萬象450週年的重要建設項目之一。公司還完成了政府重要的戰略道路，如：1D公路，從 Viengthong 到 Borikhamxay 省賽佔蓬的公路和從 Pak Lai 到Xayabuli省 Tham Mixay 的公路建設項目。"
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ 1D ເມືອງທ່າໂທມ ແຂວງຊຽງຂວາງ ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/road-1d-thathom-xiengkuang-1.jpg",
+              "/images/business/construction/bridge-road/road-1d-thathom-xiengkuang-2.jpg",
+              "/images/business/construction/bridge-road/road-1d-thathom-xiengkuang-3.jpg",
+              "/images/business/construction/bridge-road/road-1d-thathom-xiengkuang-4.jpg",
+              "/images/business/construction/bridge-road/road-1d-thathom-xiengkuang-5.jpg"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ເຂື່ອນໄຟຟ້ານໍ້າຄານ 2&3 ເມືອງຊຽງເງິນ ແຂວງຫລວງພະບາງ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ລັດວິສາຫະກິດໄຟຟ້າລາວ ມະຫາຊົນ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ເສັ້ນທາງເບີ 1 ແຕ່ສີ່ແຍກບ້ານປາກແຮດຜ່ານບ້ານຈັດສັນ ຫາ ແຄ້ມພະນັກງານເຂື່ອນໄຟຟ້ານໍ້າຄານ 3, ເສັ້ນທາງເບີ 2 ແຕ່ທ່າເຮືອແກ້ງກຸ້ງ ຫາ ເຂື່ອນໄຟຟ້ານໍ້າຄານ 2, ເສັ້ນທາງເບີ 3 ແຕ່ເຂື່ອນໄຟຟ້ານໍ້າຄານ 2 ຫາ ບ້ານພູຊ້າງ ເມືອງຊຽງເງິນ ແຂວງຫຼວງພະບາງ, ເບີ 4 ແຕ່ສາມແຍກທາງລົງຂົວບ້ານໜອງຕີ ຫາ ສາມແຍກທາງຂື້ນໄປຫາສັນເຂື່ອນ ແລະ ບ້ານພູຊ້າງ."
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": "ທາງປູຢາງ 2 ຊັ້ນ.."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "20,999,362,528 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "24  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/road-of-namkhan-dam-23-1.png",
+              "/images/business/construction/bridge-road/road-of-namkhan-dam-23-2.png",
+              "/images/business/construction/bridge-road/road-of-namkhan-dam-23-3.png",
+              "/images/business/construction/bridge-road/road-of-namkhan-dam-23-4.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ເມືອງຜົ້ງສາລີ ຫາ ຊາຍແດນນ້ຳບຸງ ສສ ຫວຽດນາມ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກ ໂຍທາທິການ ແລະ ຂົນສົ່ງ ແຂວງຜົ້ງສາລີ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ເມືອງຜົ້ງສາລີ ຫາ ຊາຍແດນນໍ້າບຸງ ສສ ຫວຽດນາມ."
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": "ປູດ້ວຍຫີນແຮ່."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "388,035,792,972 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "48  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/road-phongsaly-to-vietname-1.jpg",
+              "/images/business/construction/bridge-road/road-phongsaly-to-vietname-2.jpg",
+              "/images/business/construction/bridge-road/road-phongsaly-to-vietname-3.jpg"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງຂຶ້ນ-ລົງເຄື່ອງບິນ ໃນສະໜາມບິນ ເມືອງຫ້ວຍຊາຍ ແຂວງບໍ່ແກ້ວ ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກ ໂຍທາທິການ ແລະ ຂົນສົ່ງ ແຂວງບໍ່ແກ້ວ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ເມືອງຫ້ວຍຊາຍ ແຂວງບໍ່ແກ້ວ."
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": "ປູດ້ວຍຢາງອາດສະຟານ (Asphalt)."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "149,800,000,000 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "26  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/airport-borkeo-1.jpg",
+              "/images/business/construction/bridge-road/airport-borkeo-2.jpg",
+              "/images/business/construction/bridge-road/airport-borkeo-3.jpg",
+              "/images/business/construction/bridge-road/airport-borkeo-4.jpg"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ເມືອງປາກລາຍ-ເມືອງທົ່ງມີໄຊ ແຂວງໄຊຍະບູລີ ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-1.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-2.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-3.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-4.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-5.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-6.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-7.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-8.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-9.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-10.png",
+              "/images/business/construction/bridge-road/parklaiy-thongmixay-11.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ເທດສະບານນ້ຳອ້ອນ ເມືອງໄຊຈຳພອນ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/namon-xaichamphone-1.png",
+              "/images/business/construction/bridge-road/namon-xaichamphone-2.png",
+              "/images/business/construction/bridge-road/namon-xaichamphone-3.png",
+              "/images/business/construction/bridge-road/namon-xaichamphone-4.png",
+              "/images/business/construction/bridge-road/namon-xaichamphone-5.png",
+              "/images/business/construction/bridge-road/namon-xaichamphone-6.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການສຳຫຼວດ-ອອກແບບເສັ້ນທາງເຂົ້າເຂື່ອນນ້ຳຄານ 2",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/explore-road-namkhan2-1.png",
+              "/images/business/construction/bridge-road/explore-road-namkhan2-2.png",
+              "/images/business/construction/bridge-road/explore-road-namkhan2-3.png",
+              "/images/business/construction/bridge-road/explore-road-namkhan2-4.png",
+              "/images/business/construction/bridge-road/explore-road-namkhan2-5.png",
+              "/images/business/construction/bridge-road/explore-road-namkhan2-6.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການທາງເບຕົງ ແຂວງໄຊສົມບູນ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-1.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-2.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-3.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-4.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-5.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-6.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-7.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-8.png",
+              "/images/business/construction/bridge-road/betong-road-xaisomboon-9.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ເມືອງເຟືອງ-ເມືອງແມດ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/feung-made-1.png",
+              "/images/business/construction/bridge-road/feung-made-2.png",
+              "/images/business/construction/bridge-road/feung-made-3.png",
+              "/images/business/construction/bridge-road/feung-made-4.png",
+              "/images/business/construction/bridge-road/feung-made-5.png",
+              "/images/business/construction/bridge-road/feung-made-6.png",
+              "/images/business/construction/bridge-road/feung-made-7.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການກໍ່ສ້າງເສັ້ນທາງ ວຽງທອງ 1",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມາດຕະຖານເຕັກນິກ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/bridge-road/viengthong-1.png",
+              "/images/business/construction/bridge-road/viengthong-2.png",
+              "/images/business/construction/bridge-road/viengthong-3.png",
+              "/images/business/construction/bridge-road/viengthong-4.png",
+              "/images/business/construction/bridge-road/viengthong-5.png",
+              "/images/business/construction/bridge-road/viengthong-6.png",
+              "/images/business/construction/bridge-road/viengthong-7.png"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "建造",
+        "image": "/images/business/construction/building/building.jpg",
+        "index": "building",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "該建築工程是 Duangchalern Development Construction Co., Ltd. 單獨為公共和私人實體提供服務的又一建築工程，工程優質、美觀、按時完工。 我公司承包並移交給業主的部分重要建築物及設施建設項目有：Phu Khun Warriors、陸軍總辦公樓、Lao Skyway公司辦公樓."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ກໍ່ສ້າງຫ້ອງການ ແລະ ສະໂມສອນ ລັດວິສາຫະກິດລາວເດີນອາກາດ (ລາວສະກາຍເວ)",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "."
+              },
+              {
+                "title": "ລັກສະນະໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/building/skyway-office-1.png",
+              "/images/business/construction/building/skyway-office-2.png",
+              "/images/business/construction/building/skyway-office-3.png"
+            ]
+          },
+          {
+            "name": "ກໍ່ສ້າງອາຄານຫ້ອງການດ່ານສາກົນນໍ້າອ້ອນ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກ ໂຍທາທິການ ແລະ ຂົນສົ່ງ ແຂວງບໍລິຄໍາໄຊ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ດ່ານນໍ້າອ້ອນສາກົນ ຊາຍແດນແທງທຸຍ ສສ ຫວຽດນາມ."
+              },
+              {
+                "title": "ລັກສະນະໂຄງການ",
+                "desc": "ກໍ່ສ້າງອາຄານຫ້ອງການ."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "10,010,000,000 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "12  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/building/immigration-namaom-1.png",
+              "/images/business/construction/building/immigration-namaom-2.png",
+              "/images/business/construction/building/immigration-namaom-3.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການພັດທະນາເຂດດົງໂດກ ໂຊນ 1",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກ ໂຍທາທິການ ແລະ ຂົນສົ່ງ ແຂວງບໍລິຄໍາໄຊ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ດ່ານນໍ້າອ້ອນສາກົນ ຊາຍແດນແທງທຸຍ ສສ ຫວຽດນາມ."
+              },
+              {
+                "title": "ລັກສະນະໂຄງການ",
+                "desc": "ກໍ່ສ້າງອາຄານຫ້ອງການ."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "10,010,000,000 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "12  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/building/dongdok-area-zone1-1.png",
+              "/images/business/construction/building/dongdok-area-zone1-2.png",
+              "/images/business/construction/building/dongdok-area-zone1-3.png",
+              "/images/business/construction/building/dongdok-area-zone1-4.png",
+              "/images/business/construction/building/dongdok-area-zone1-5.png",
+              "/images/business/construction/building/dongdok-area-zone1-6.png",
+              "/images/business/construction/building/dongdok-area-zone1-7.png",
+              "/images/business/construction/building/dongdok-area-zone1-8.png",
+              "/images/business/construction/building/dongdok-area-zone1-9.png",
+              "/images/business/construction/building/dongdok-area-zone1-10.png",
+              "/images/business/construction/building/dongdok-area-zone1-11.png",
+              "/images/business/construction/building/dongdok-area-zone1-12.png",
+              "/images/business/construction/building/dongdok-area-zone1-13.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການພັດທະນາເຂດດົງໂດກ ໂຊນ 2",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກ ໂຍທາທິການ ແລະ ຂົນສົ່ງ ແຂວງບໍລິຄໍາໄຊ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ດ່ານນໍ້າອ້ອນສາກົນ ຊາຍແດນແທງທຸຍ ສສ ຫວຽດນາມ."
+              },
+              {
+                "title": "ລັກສະນະໂຄງການ",
+                "desc": "ກໍ່ສ້າງອາຄານຫ້ອງການ."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "10,010,000,000 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "12  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍາລັງດຳເນີນການກໍ່ສ້າງ."
+              }
+            ],
+            "images": [
+              "/images/business/construction/building/dongdok-area-zone2-1.png",
+              "/images/business/construction/building/dongdok-area-zone2-2.png",
+              "/images/business/construction/building/dongdok-area-zone2-3.png",
+              "/images/business/construction/building/dongdok-area-zone2-4.png",
+              "/images/business/construction/building/dongdok-area-zone2-5.png",
+              "/images/business/construction/building/dongdok-area-zone2-6.png"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "灌溉",
+        "image": "/images/business/construction/irrigation/irrigation.jpg",
+        "index": "irrigation",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "與公路大橋建設一起，灌溉建設是 Duang Charoen 開發建設集團有限公司關注和重視的另一項工作，幫助當地人民，特別是農民獲得足夠的農業用水和畜牧業，以根據締約國的政策為確保充足的食物做出貢獻。過去，該公司在全國多個省份完成了許多灌溉項目，例如沙耶布里省白萊縣的懷索灌溉項目。"
+          },
+          {
+            "indicator": "main",
+            "desc": "目前，我公司還在博僑省懷賽區南澤村範圍內研究、勘測和規劃興建灌溉系統，總面積1600公頃。 預計項目建成後，可為約150公頃以上的種植面積提供足夠的水源。"
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ກໍ່ສ້າງຊົນລະປະທານລະບົບຄອງເໝືອງ, ອ່າງເກັບນໍ້າຫ້ວຍໂຊ້ ບ້ານເມືອງປາ ເມືອງປາກລາຍ ແຂວງໄຊຍະບູລີ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ພະແນກກະສິກຳ ແລະ ປ່າໄມ້ ແຂວງໄຊຍະບູລີ."
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": "ບ້ານເມືອງປາ ເມືອງປາກລາຍ ແຂວງໄຊຍະບູລີ."
+              },
+              {
+                "title": "ພື້ນທີ່ໂຄງການ",
+                "desc": "4,957.46 ແມັດ."
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": "15,993,105,244 ກີບ."
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": "18  ເດືອນ."
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": "ກໍ່ສ້າງສໍາເລັດແລ້ວ."
+              },
+              {
+                "title": "ປະລິມານກັກເກັບນ້ຳ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ"
+              },
+              {
+                "title": "ພື້້ນທີ່ໄດ້ຮັບຜົນປະໂຫຍດ",
+                "desc": "ສະໜອງນໍ້າໃຫ້ແກ່ການຜະລິດກະສິກຳຂອງປະຊາຊົນ 3 ບ້ານ ຄື: ບ້ານເມືອງປາ, ບ້ານ ນໍ້າປາ ແລະ ບ້ານນາຈັນ ຈໍານວນ 543 ຄອບຄົວ.."
+              }
+            ],
+            "images": [
+              "/images/business/construction/irrigation/huayxo-xyl-1.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-2.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-3.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-4.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-5.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-6.jpg",
+              "/images/business/construction/irrigation/huayxo-xyl-7.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "高速公路",
+        "image": "/images/business/construction/highway/highway.png",
+        "index": "highway",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "Duangchalern 集團公司是為老撾人民民主共和國許多省份的基礎設施建設和發展做出貢獻的建築公司之一，這些基礎設施創造了經濟增長和社會經濟發展。該公司修建和改善了道路，包括支持這一點的機器工作類型良好。因此，該公司得到了政府、私營部門和各種組織的信任，成為高速公路建設的運營商。"
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ໂຄງການກໍ່ສ້າງທາງດ່ວນ ນະຄອນຫຼວງວຽງຈັນ-ປາກຊັນ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ທີ່ຕັ້ງໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ພື້ນທີ່ໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ມູນຄ່າການກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ໄລຍະເວລາກໍ່ສ້າງ",
+                "desc": ""
+              },
+              {
+                "title": "ຄວາມຄືບໜ້າໂຄງການ",
+                "desc": ""
+              },
+              {
+                "title": "ປະລິມານກັກເກັບນ້ຳ",
+                "desc": ""
+              },
+              {
+                "title": "ພື້້ນທີ່ໄດ້ຮັບຜົນປະໂຫຍດ",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/construction/highway/vientiane-parkson-1.png",
+              "/images/business/construction/highway/vientiane-parkson-2.png",
+              "/images/business/construction/highway/vientiane-parkson-3.png",
+              "/images/business/construction/highway/vientiane-parkson-4.png",
+              "/images/business/construction/highway/vientiane-parkson-5.png",
+              "/images/business/construction/highway/vientiane-parkson-6.png",
+              "/images/business/construction/highway/vientiane-parkson-7.png",
+              "/images/business/construction/highway/vientiane-parkson-8.png",
+              "/images/business/construction/highway/vientiane-parkson-9.png",
+              "/images/business/construction/highway/vientiane-parkson-10.png"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "realEstate": {
+    "lao": [
+      {
+        "title": "ອະສັງຫາລີມະຊັບ",
+        "image": "/images/business/real-estate/land-arrangement.jpg",
+        "index": "land-house-allotment",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "ປະຈູບັນຈະເຫັນໄດ້ວ່າການຊື້ອະສັງຫາລິມະຊັບ ຖືເປັນການລົງທືນອີກຢ່າງໜື່ງ ບໍ່ວ່າຈະຊື້ ເພື່ອເປັນທີ່ຢູ່ອາໃສ ຫຼື ຊື້ເພື່ອລົງທືນ. ບໍລິສັດ DDC Group ມີໂຄງການດີນຈັດສັນ ເເລະ ກໍ່ສ້າງໝູ່ບ້ານຈັດສັນ ຫຼາກຫຼາຍຮູບເເບບ ເປັນທາງເລືອກໃຫ້ເເກ່ບັນດາທ່ານ ທັງພາຍໃນ ເເລະ ຕ່າງປະເທດ ນຳໃຊ້ເພື່ອເປັນທີ່ຢູ່ອາໃສ, ຫ້ອງການ, ສຳນັກງານ ຫຼື ເພື່ອດຳເນີນທຸລະກິດ ດ້ານອື່ນໆ."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ຂາຍ-ເຊົ່າ ເຮືອນແລະອາຄານ ບ້ານຊຳເຄ້",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/real-estate/house-rent-sale-1.png",
+              "/images/business/real-estate/house-rent-sale-2.png",
+              "/images/business/real-estate/house-rent-sale-3.png",
+              "/images/business/real-estate/house-rent-sale-4.png",
+              "/images/business/real-estate/house-rent-sale-5.png",
+              "/images/business/real-estate/house-rent-sale-6.png",
+              "/images/business/real-estate/house-rent-sale-7.png",
+              "/images/business/real-estate/house-rent-sale-8.png",
+              "/images/business/real-estate/house-rent-sale-9.png",
+              "/images/business/real-estate/house-rent-sale-10.png",
+              "/images/business/real-estate/house-rent-sale-11.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການບ້ານຈັດສັນ 12 ຫຼັງ",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/real-estate/housing-estate-1.png",
+              "/images/business/real-estate/housing-estate-2.png",
+              "/images/business/real-estate/housing-estate-3.png",
+              "/images/business/real-estate/housing-estate-4.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການບ້ານຈັດສັນ ໂຊກນ້ອຍ ໂຊນ 1",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/real-estate/housing-estate-xorknoy1-1.png",
+              "/images/business/real-estate/housing-estate-xorknoy1-2.png",
+              "/images/business/real-estate/housing-estate-xorknoy1-3.png",
+              "/images/business/real-estate/housing-estate-xorknoy1-4.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການບ້ານຈັດສັນ ໂຊກນ້ອຍ ໂຊນ 2",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/real-estate/housing-estate-xorknoy2-1.png",
+              "/images/business/real-estate/housing-estate-xorknoy2-2.png",
+              "/images/business/real-estate/housing-estate-xorknoy2-3.png",
+              "/images/business/real-estate/housing-estate-xorknoy2-4.png"
+            ]
+          }
+        ]
+      }
+    ],
+    "english": [
+      {
+        "title": "Real-Estate",
+        "image": "/images/business/real-estate/land-arrangement.jpg",
+        "index": "land-house-allotment",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "It can be seen that buying real estate is considered as another investment, whether it is bought for residence or bought for investment. DDC Group company has a project to allocate and build a variety of allotment villages as an option for you both domestically and abroad to use as a residence, office, office or to conduct business in other areas."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "Sale-Rent building at Chamkhae Village",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/real-estate/house-rent-sale-1.png",
+              "/images/business/real-estate/house-rent-sale-2.png",
+              "/images/business/real-estate/house-rent-sale-3.png",
+              "/images/business/real-estate/house-rent-sale-4.png",
+              "/images/business/real-estate/house-rent-sale-5.png",
+              "/images/business/real-estate/house-rent-sale-6.png",
+              "/images/business/real-estate/house-rent-sale-7.png",
+              "/images/business/real-estate/house-rent-sale-8.png",
+              "/images/business/real-estate/house-rent-sale-9.png",
+              "/images/business/real-estate/house-rent-sale-10.png",
+              "/images/business/real-estate/house-rent-sale-11.png"
+            ]
+          },
+          {
+            "name": "Housing Estate 12 Units",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/real-estate/housing-estate-1.png",
+              "/images/business/real-estate/housing-estate-2.png",
+              "/images/business/real-estate/housing-estate-3.png",
+              "/images/business/real-estate/housing-estate-4.png"
+            ]
+          },
+          {
+            "name": "Housing Estate at Xorknoy Village Zone 1",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/real-estate/housing-estate-xorknoy1-1.png",
+              "/images/business/real-estate/housing-estate-xorknoy1-2.png",
+              "/images/business/real-estate/housing-estate-xorknoy1-3.png",
+              "/images/business/real-estate/housing-estate-xorknoy1-4.png"
+            ]
+          },
+          {
+            "name": "Housing Estate at Xorknoy Village Zone 2",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/real-estate/housing-estate-xorknoy2-1.png",
+              "/images/business/real-estate/housing-estate-xorknoy2-2.png",
+              "/images/business/real-estate/housing-estate-xorknoy2-3.png",
+              "/images/business/real-estate/housing-estate-xorknoy2-4.png"
+            ]
+          }
+        ]
+      }
+    ],
+    "chiness": [
+      {
+        "title": "土地分配",
+        "image": "/images/business/real-estate/land-arrangement.jpg",
+        "index": "land-house-allotment",
+        "description": [
+          {
+            "indicator": "main",
+            "desc": "由此可見，無論是買自住還是買投資，買房都算是另一種投資。 DDC集團公司有一個項目，配置和建設各種分配村，作為您在國內外的選擇，作為居住、辦公、辦公或在其他地區開展業務的選擇。"
+          }
+        ],
+        "listItem": [
+          {
+            "name": "Chamkhae 村的出售-出租建築物",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/real-estate/house-rent-sale-1.png",
+              "/images/business/real-estate/house-rent-sale-2.png",
+              "/images/business/real-estate/house-rent-sale-3.png",
+              "/images/business/real-estate/house-rent-sale-4.png",
+              "/images/business/real-estate/house-rent-sale-5.png",
+              "/images/business/real-estate/house-rent-sale-6.png",
+              "/images/business/real-estate/house-rent-sale-7.png",
+              "/images/business/real-estate/house-rent-sale-8.png",
+              "/images/business/real-estate/house-rent-sale-9.png",
+              "/images/business/real-estate/house-rent-sale-10.png",
+              "/images/business/real-estate/house-rent-sale-11.png"
+            ]
+          },
+          {
+            "name": "屋苑 12 單位",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/real-estate/housing-estate-1.png",
+              "/images/business/real-estate/housing-estate-2.png",
+              "/images/business/real-estate/housing-estate-3.png",
+              "/images/business/real-estate/housing-estate-4.png"
+            ]
+          },
+          {
+            "name": "Xorknoy 村第 1 區的住宅區",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/real-estate/housing-estate-xorknoy1-1.png",
+              "/images/business/real-estate/housing-estate-xorknoy1-2.png",
+              "/images/business/real-estate/housing-estate-xorknoy1-3.png",
+              "/images/business/real-estate/housing-estate-xorknoy1-4.png"
+            ]
+          },
+          {
+            "name": "Xorknoy 村第 2 區的住宅區",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              "/images/business/real-estate/housing-estate-xorknoy2-1.png",
+              "/images/business/real-estate/housing-estate-xorknoy2-2.png",
+              "/images/business/real-estate/housing-estate-xorknoy2-3.png",
+              "/images/business/real-estate/housing-estate-xorknoy2-4.png"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "agriculture": {
+    "lao": [
+      {
+        "title": "ການກະເສດ",
+        "image": "/images/business/agriculture/mixed-farming.jpg",
+        "index": "mixed-farming",
+        "description": [
+          {
+            "indicator": "title",
+            "desc": "ສະພາບລວມ"
+          },
+          {
+            "indicator": "main",
+            "desc": "ບໍລິສັດ ກຸ່ມດວງຈະເລີນ ເປັນໜື່ງໃນ ບໍລິສັດ ທີ່ມີວິໃສທັດ ເບີ່ງກວ້າງມອງໄກ ເເລະ ໄດ້ພັດທະນາພື້ນຖານໂຄງລ່າງອັນໄດ້ສ້າງຄວາມຈະເລີນເຕີບໂຕທາງດ້ານ ເສດຖະກິດ ເເລະ ການພັດທະນາເສດຖະກິດສັງຄົມຂອງ ສປປລາວ ທີ່ ບໍລິສັດ ໄດ້ດຳເນີນການ ສ້າງຟາມ ບໍ່ວ່າຈະເປັນ ການປູກຝັງ, ລ້ຽງສັດ ເເລະ ອື່ນໆ. ເພື່ອສ້າງຜົນຜະລິດທີ່ມີຄຸນນະພາບ ເພື່ອສົ່ງອອກຕາມຕະຫຼາດ ເເລະ ສົ່ງອອກຕ່າງປະເທດ."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ການປູກຝັງ-ລ້ຽງສັດ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              },
+              {
+                "title": "ເນື້ອທີ່ໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              }
+            ],
+            "images": [
+              "/images/business/agriculture/cultivation-raise-animal-1.png",
+              "/images/business/agriculture/cultivation-raise-animal-2.png",
+              "/images/business/agriculture/cultivation-raise-animal-3.png",
+              "/images/business/agriculture/cultivation-raise-animal-4.png",
+              "/images/business/agriculture/cultivation-raise-animal-5.png",
+              "/images/business/agriculture/cultivation-raise-animal-6.png",
+              "/images/business/agriculture/cultivation-raise-animal-7.png"
+            ]
+          },
+          {
+            "name": "ໂຄງການຟາມນ້ຳຢູ້ ເມືອງເມີງ ແຂວງບໍ່ແກ້ວ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              },
+              {
+                "title": "ເນື້ອທີ່ໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              }
+            ],
+            "images": [
+              "/images/business/agriculture/namyou-farm-1.png",
+              "/images/business/agriculture/namyou-farm-2.png",
+              "/images/business/agriculture/namyou-farm-3.png",
+              "/images/business/agriculture/namyou-farm-4.png",
+              "/images/business/agriculture/namyou-farm-5.png"
+            ]
+          },
+          {
+            "name": "ພິທີເຊັນສັນຍາສຳປະທານ ໂຄງການປູກຝັງ-ລ້ຽງສັດ ເມືອງເມີງ ແລະ ເມືອງປາກທາ ແຂວງບໍ່ແກ້ວ",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              },
+              {
+                "title": "ເນື້ອທີ່ໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              }
+            ],
+            "images": [
+              "/images/business/agriculture/meung-parktha-district-1.jpg",
+              "/images/business/agriculture/meung-parktha-district-2.jpg",
+              "/images/business/agriculture/meung-parktha-district-3.jpg",
+              "/images/business/agriculture/meung-parktha-district-4.jpg"
+            ]
+          }
+        ]
+      }
+    ],
+    "english": [
+      {
+        "title": "agriculture",
+        "image": "/images/business/agriculture/mixed-farming.jpg",
+        "index": "mixed-farming",
+        "description": [
+          {
+            "indicator": "title",
+            "desc": "Overview"
+          },
+          {
+            "indicator": "main",
+            "desc": "Duangchalern Development and Construction Group Company is one of the companies that has a far-reaching vision and has developed the infrastructure that has created the economic growth and social economic development of Lao PDR. To create quality products to export to the market and export to foreign countries."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "cultivation and raise animal",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              },
+              {
+                "title": "ເນື້ອທີ່ໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              }
+            ],
+            "images": [
+              "/images/business/agriculture/cultivation-raise-animal-1.png",
+              "/images/business/agriculture/cultivation-raise-animal-2.png",
+              "/images/business/agriculture/cultivation-raise-animal-3.png",
+              "/images/business/agriculture/cultivation-raise-animal-4.png",
+              "/images/business/agriculture/cultivation-raise-animal-5.png",
+              "/images/business/agriculture/cultivation-raise-animal-6.png",
+              "/images/business/agriculture/cultivation-raise-animal-7.png"
+            ]
+          },
+          {
+            "name": "Namyou Farming at Borkeo province",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              },
+              {
+                "title": "ເນື້ອທີ່ໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              }
+            ],
+            "images": [
+              "/images/business/agriculture/namyou-farm-1.png",
+              "/images/business/agriculture/namyou-farm-2.png",
+              "/images/business/agriculture/namyou-farm-3.png",
+              "/images/business/agriculture/namyou-farm-4.png",
+              "/images/business/agriculture/namyou-farm-5.png"
+            ]
+          },
+          {
+            "name": "Signing agreement for agriculture at Meung and Parktha district of Borkeo Province",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              },
+              {
+                "title": "ເນື້ອທີ່ໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              }
+            ],
+            "images": [
+              "/images/business/agriculture/meung-parktha-district-1.jpg",
+              "/images/business/agriculture/meung-parktha-district-2.jpg",
+              "/images/business/agriculture/meung-parktha-district-3.jpg",
+              "/images/business/agriculture/meung-parktha-district-4.jpg"
+            ]
+          }
+        ]
+      }
+    ],
+    "chiness": [
+      {
+        "title": "栽培 - 飼養動物",
+        "image": "/images/business/agriculture/mixed-farming.jpg",
+        "index": "mixed-farming",
+        "description": [
+          {
+            "indicator": "title",
+            "desc": "概述"
+          },
+          {
+            "indicator": "main",
+            "desc": "Duangchalern 開發建設集團公司是具有深遠遠見並開發了創造老撾人民民主共和國經濟增長和社會經濟發展的基礎設施的公司之一。 打造優質產品出口市場，出口國外。"
+          }
+        ],
+        "listItem": [
+          {
+            "name": "種植業 - 畜牧業",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              },
+              {
+                "title": "ເນື້ອທີ່ໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              }
+            ],
+            "images": [
+              "/images/business/agriculture/cultivation-raise-animal-1.png",
+              "/images/business/agriculture/cultivation-raise-animal-2.png",
+              "/images/business/agriculture/cultivation-raise-animal-3.png",
+              "/images/business/agriculture/cultivation-raise-animal-4.png",
+              "/images/business/agriculture/cultivation-raise-animal-5.png",
+              "/images/business/agriculture/cultivation-raise-animal-6.png",
+              "/images/business/agriculture/cultivation-raise-animal-7.png"
+            ]
+          },
+          {
+            "name": "波膠省南友農業",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              },
+              {
+                "title": "ເນື້ອທີ່ໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              }
+            ],
+            "images": [
+              "/images/business/agriculture/namyou-farm-1.png",
+              "/images/business/agriculture/namyou-farm-2.png",
+              "/images/business/agriculture/namyou-farm-3.png",
+              "/images/business/agriculture/namyou-farm-4.png",
+              "/images/business/agriculture/namyou-farm-5.png"
+            ]
+          },
+          {
+            "name": "在博爾喬省 Meung 和 Parktha 區簽署農業協議",
+            "itemDetail": [
+              {
+                "title": "ເຈົ້າຂອງໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              },
+              {
+                "title": "ເນື້ອທີ່ໂຄງການ",
+                "desc": "ບໍ່ມີຂໍ້ມູນ."
+              }
+            ],
+            "images": [
+              "/images/business/agriculture/meung-parktha-district-1.jpg",
+              "/images/business/agriculture/meung-parktha-district-2.jpg",
+              "/images/business/agriculture/meung-parktha-district-3.jpg",
+              "/images/business/agriculture/meung-parktha-district-4.jpg"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "mining": {
+    "lao": [
+      {
+        "title": "ຂຸດຄົ້ນບໍ່ແຮ່",
+        "image": "/images/business/mining/mining.jpg",
+        "index": "mining",
+        "description": [
+          {
+            "indicator": "title",
+            "desc": "ສະພາບລວມ"
+          },
+          {
+            "indicator": "main",
+            "desc": "ບໍລິສັດ ກຸ່ມດວງຈະເລີນພັດທະນາກໍ່ສ້າງ ຈຳກັດ ຜູ້ດຽວ ປະກອບອຸດສາຫະກຳທາງດ້ານບໍ່ແຮ່ດ້ວຍຄວາມຊ່ຽວຊານໃນການດຳເນີນການມາຢ່າງຍາວນານ. ໂດຍພວກເຮົາມີທີມງານຜູ້ຊ່ຽວຊານທີ່ມີປະສົບການ ພ້ອມທັງເຄື່ອງຈັກທີ່ໄດ້ມາດຕະຖານ ຈຶ່ງເຮັດໃຫ້ສາມາດດຳເນີນການບໍ່ແຮ່ໄດ້ຢ່າງມີປະສິດທິພາບ ໂດຍພວກເຮົາສາມາດດຳເນີນການປະກອບກິດຈະການບໍ່ແຮ່ໄດ້ຫຼາຍປະເພດເຊັ່ນ : ທອງ, ເຫຼັກ, ຊືນ, ອັງຕີມອນ, ບົກຊິດ, ເກືອກາລີ, ແຮ່ຫາຍາກ, ຖ່ານຫີນ ແລະ ແຮ່ສັງກະສີ."
+          },
+          {
+            "indicator": "title",
+            "desc": "ການບໍລິຫານຈັດການກັບຊັບພະຍາກອນທຳມະຊາດ"
+          },
+          {
+            "indicator": "main",
+            "desc": "ພວກເຮົາຄຳນຶງເຖິງຫຼັກການການບໍລິຫານຈັດການຊັບພະຍາກອນທີ່ດີ ໂດຍຄຳນຶງເຖິງປັດໃຈດັ່ງນີ້ : ບໍລິຫານຈັດການແຮ່ທີ່ຄອບຄອງນຳມາໃຊ້ໃຫ້ເກີດປະໂຫຍດສູງສຸດໂດຍເຄື່ອງມື-ເຄື່ອງຈັກໃນຂະບວນການຕ່າງໆທີ່ພວກເຮົາຈັດສັນມາໃຊ້ນັ້ນມີຄວາມປະສົງກັບຄວາມຕ້ອງການທີ່ພວກເຮົານຳແຮ່ໄປໃຊ້ ໂດຍຄຳນຶງເຖິງຫຼັກການຂະບວນການຕ່າງໆໃນການດຳເນີນການຈະຕ້ອງສາມາດຜະລິດເປັນຕົວແຮ່ໃຫ້ໄດ້ຫຼາຍທີ່ສຸດ ແລະ ເສຍແຮ່ໃຫ້ໄດ້ໜ້ອຍທີ່ສຸດ ລວມໄປເຖິງຍັງມີການພັດທະນາການຜະລິດ ແລະ ເພີ່ມມູນຄ່າຊັບພະຍາກອນແຮ່ອີກດ້ວຍ. ມີການບໍລິຫານຈັດການແຮ່ ແລະ ການດຳເນີນການດ້ວຍຄວາມໂປ່ງໃສ, ມີການກວດສອບທາງດ້ານຂະບວນການເຮັດວຽກ ແລະ ຜົນຜະລິດໃຫ້ໄດ້ມາດຕະຖານຢ່າງສະໝໍ່າສະເໝີ."
+          },
+          {
+            "indicator": "title",
+            "desc": "ການບໍລິຫານຈັດການກັບສິ່ງແວດລ້ອມ"
+          },
+          {
+            "indicator": "main",
+            "desc": "ການອະນຸລັກຊັບພະຍາກອນທຳມະຊາດ ແລະ ສິ່ງແວດລ້ອມໃນບໍລິເວນໃກ້ຄຽງພື້ນທີ່ຄວາມຮັບຜິດຊອບທັງໃນໄລຍະສັັ້ນ ແລະ ໄລຍະຍາວ. ມີການກວດສອບຜົນກະທົບຕໍ່ຊຸມຊົມ ແລະ ສິ່ງແວດລ້ອມໃນບໍລິເວນໃກ້ຄຽງພື້ນທີ່ຄວາມຮັບຜິດຊອບ ເຊິ່ງພື້ນທີ່ໃດຫາກໄດ້ຮັບຜົນກະທົບ ທາງພວກເຮົາຈະດຳເນີນການກວດສອບຫາວິທີແກ້ໄຂປັນຫາ ແລະ ຜົນກະທົບນັ້໋ນໆ ລວມໄປເຖິງການປ້ອງກັນ ແລະ ຮັບມືຜົນກະທົບອື່ນໆຕໍ່ໄປ."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ພິທີມອບລົດ ແລະ ອຸປະກອນໃຫ້ກົມທໍລະນີສາດ",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-11.jpeg",
+                "desc": "ພິທີມອບລົດ ແລະ ອຸປະກອນໃຫ້ກົມທໍລະນີສາດ"
+              },
+              {
+                "image": "/images/business/mining/mining-12.jpeg",
+                "desc": "ພິທີມອບລົດ ແລະ ອຸປະກອນໃຫ້ກົມທໍລະນີສາດ"
+              }
+            ]
+          },
+          {
+            "name": "ພິທີເຊັນສັນຍາ ສຳປະທານ ເມືອງສັງທອງ 148 ກມ",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-21.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ສຳປະທານ ເມືອງສັງທອງ 148 ກມ"
+              },
+              {
+                "image": "/images/business/mining/mining-22.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ສຳປະທານ ເມືອງສັງທອງ 148 ກມ"
+              },
+              {
+                "image": "/images/business/mining/mining-23.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ສຳປະທານ ເມືອງສັງທອງ 148 ກມ"
+              },
+              {
+                "image": "/images/business/mining/mining-24.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ສຳປະທານ ເມືອງສັງທອງ 148 ກມ"
+              }
+            ]
+          },
+          {
+            "name": "ພິທີເຊັນສັນຍາ ຊອກຄົ້ນສຳຫຼວດ ບໍ່ຄຳເມືອງດັກຈື່ງ ແລະ ເມືອງກະລືມ",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-31.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ຊອກຄົ້ນສຳຫຼວດ ບໍ່ຄຳເມືອງດັກຈື່ງ ແລະ ເມືອງກະລືມ"
+              },
+              {
+                "image": "/images/business/mining/mining-32.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ຊອກຄົ້ນສຳຫຼວດ ບໍ່ຄຳເມືອງດັກຈື່ງ ແລະ ເມືອງກະລືມ"
+              },
+              {
+                "image": "/images/business/mining/mining-33.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ຊອກຄົ້ນສຳຫຼວດ ບໍ່ຄຳເມືອງດັກຈື່ງ ແລະ ເມືອງກະລືມ"
+              },
+              {
+                "image": "/images/business/mining/mining-34.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ຊອກຄົ້ນສຳຫຼວດ ບໍ່ຄຳເມືອງດັກຈື່ງ ແລະ ເມືອງກະລືມ"
+              }
+            ]
+          },
+          {
+            "name": "ພິທີເຊັນສັນຍາ ບໍ່ຖ່ານຫີນ ຜົ້ງສາລີ",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-41.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ຖ່ານຫີນ ຜົ້ງສາລີ"
+              },
+              {
+                "image": "/images/business/mining/mining-42.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ຖ່ານຫີນ ຜົ້ງສາລີ"
+              },
+              {
+                "image": "/images/business/mining/mining-43.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ຖ່ານຫີນ ຜົ້ງສາລີ"
+              },
+              {
+                "image": "/images/business/mining/mining-44.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ຖ່ານຫີນ ຜົ້ງສາລີ"
+              }
+            ]
+          },
+          {
+            "name": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກຫຼວງພະບາງ",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-51.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              },
+              {
+                "image": "/images/business/mining/mining-52.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              },
+              {
+                "image": "/images/business/mining/mining-53.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              },
+              {
+                "image": "/images/business/mining/mining-54.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              },
+              {
+                "image": "/images/business/mining/mining-55.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              },
+              {
+                "image": "/images/business/mining/mining-56.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              }
+            ]
+          },
+          {
+            "name": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-61.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-62.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-63.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-64.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-65.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-66.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              }
+            ]
+          },
+          {
+            "name": "ໂຄງການຂຸດຄົ້ນ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-71.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-72.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-73.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-74.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-75.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-76.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-77.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-78.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-79.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-710.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "english": [
+      {
+        "title": "Mining",
+        "image": "/images/business/mining/mining.jpg",
+        "index": "mining",
+        "description": [
+          {
+            "indicator": "title",
+            "desc": "Overview"
+          },
+          {
+            "indicator": "main",
+            "desc": "Duang Charoen Construction Development Group Co., Ltd. specializes in the mining industry for a long time. By having a team of experienced experts as well as standardized machines, we can operate mines efficiently."
+          },
+          {
+            "indicator": "title",
+            "desc": "Administration deals with natural resources"
+          },
+          {
+            "indicator": "main",
+            "desc": "We take into account the principles of good resource management, taking into account the following factors: management of the ore that we possess to make the most of the use of the tools-machines in the various processes that we allocate to use that will meet the needs of us to use the ore, taking into account the principle of the various processes in the operation must be able to produce as much ore as possible and minimize the loss of ore, including the development of production and increase the value of ore resources. There is transparent management and operation, there is an inspection of the work process and output to meet the standards consistently."
+          },
+          {
+            "indicator": "title",
+            "desc": "Administration deals with the environment"
+          },
+          {
+            "indicator": "main",
+            "desc": "Conservation of natural resources and the environment in the vicinity of the area of responsibility both in the short and long term. There is an examination of the impact on the audience and the environment in the vicinity of the area of responsibility. If any area is affected, we will conduct an investigation to find solutions to the problems and effects, including prevention and dealing with other effects."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "Car and equipment handover ceremony to the Department of Geology",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-11.jpeg",
+                "desc": "ພິທີມອບລົດ ແລະ ອຸປະກອນໃຫ້ກົມທໍລະນີສາດ"
+              },
+              {
+                "image": "/images/business/mining/mining-12.jpeg",
+                "desc": "ພິທີມອບລົດ ແລະ ອຸປະກອນໃຫ້ກົມທໍລະນີສາດ"
+              }
+            ]
+          },
+          {
+            "name": "Signing ceremony of concession contract in Sangthong district",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-21.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ສຳປະທານ ເມືອງສັງທອງ"
+              },
+              {
+                "image": "/images/business/mining/mining-22.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ສຳປະທານ ເມືອງສັງທອງ"
+              },
+              {
+                "image": "/images/business/mining/mining-23.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ສຳປະທານ ເມືອງສັງທອງ"
+              },
+              {
+                "image": "/images/business/mining/mining-24.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ສຳປະທານ ເມືອງສັງທອງ"
+              }
+            ]
+          },
+          {
+            "name": "Signing contract ceremony of gold exploration in Dukjuieng district and Kaluem district",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-31.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ຊອກຄົ້ນສຳຫຼວດ ບໍ່ຄຳເມືອງດັກຈື່ງ ແລະ ເມືອງກະລືມ"
+              },
+              {
+                "image": "/images/business/mining/mining-32.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ຊອກຄົ້ນສຳຫຼວດ ບໍ່ຄຳເມືອງດັກຈື່ງ ແລະ ເມືອງກະລືມ"
+              },
+              {
+                "image": "/images/business/mining/mining-33.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ຊອກຄົ້ນສຳຫຼວດ ບໍ່ຄຳເມືອງດັກຈື່ງ ແລະ ເມືອງກະລືມ"
+              },
+              {
+                "image": "/images/business/mining/mining-34.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ຊອກຄົ້ນສຳຫຼວດ ບໍ່ຄຳເມືອງດັກຈື່ງ ແລະ ເມືອງກະລືມ"
+              }
+            ]
+          },
+          {
+            "name": "Signing ceremony of coal mine Phongsaly",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-41.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ຖ່ານຫີນ ຜົ້ງສາລີ"
+              },
+              {
+                "image": "/images/business/mining/mining-42.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ຖ່ານຫີນ ຜົ້ງສາລີ"
+              },
+              {
+                "image": "/images/business/mining/mining-43.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ຖ່ານຫີນ ຜົ້ງສາລີ"
+              },
+              {
+                "image": "/images/business/mining/mining-44.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ຖ່ານຫີນ ຜົ້ງສາລີ"
+              }
+            ]
+          },
+          {
+            "name": "Signing ceremony for iron ore mining in Luang Prabang",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-51.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              },
+              {
+                "image": "/images/business/mining/mining-52.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              },
+              {
+                "image": "/images/business/mining/mining-53.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              },
+              {
+                "image": "/images/business/mining/mining-54.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              },
+              {
+                "image": "/images/business/mining/mining-55.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              },
+              {
+                "image": "/images/business/mining/mining-56.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              }
+            ]
+          },
+          {
+            "name": "Signing ceremony of iron mining contract in Viengxay district",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-61.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-62.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-63.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-64.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-65.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-66.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              }
+            ]
+          },
+          {
+            "name": "Iron ore mining project in Viengxay district",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-71.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-72.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-73.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-74.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-75.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-76.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-77.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-78.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-79.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-710.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "chiness": [
+      {
+        "title": "礦業",
+        "image": "/images/business/mining/mining.jpg",
+        "index": "mining",
+        "description": [
+          {
+            "indicator": "title",
+            "desc": "概述"
+          },
+          {
+            "indicator": "main",
+            "desc": "Duang Charoen建設發展集團有限公司長期專注於採礦業。通過擁有一支經驗豐富的專家團隊以及標準化的機器，我們可以高效地運營礦山。"
+          },
+          {
+            "indicator": "title",
+            "desc": "行政管理涉及自然資源"
+          },
+          {
+            "indicator": "main",
+            "desc": "我們考慮到良好資源管理的原則，考慮到以下因素： 管理我們擁有的礦石，以充分利用我們分配使用的各種過程中的工具機器，以滿足我們使用礦石的需要，考慮到各個工序在操作中的原則，必須能夠生產盡可能多的礦石，盡量減少礦石的損失，包括發展生產，增加礦石資源的價值。有透明的管理和操作，有對工作過程和輸出的檢查，以始終符合標準。"
+          },
+          {
+            "indicator": "title",
+            "desc": "行政與環境打交道"
+          },
+          {
+            "indicator": "main",
+            "desc": "在短期和長期保護責任區附近的自然資源和環境。 對責任區域附近的觀眾和環境的影響進行檢查，如果有任何區域受到影響，我們將進行調查，找出問題和影響的解決方案，包括預防和處理其他效果。"
+          }
+        ],
+        "listItem": [
+          {
+            "name": "地質系車輛設備交接儀式",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-11.jpeg",
+                "desc": "ພິທີມອບລົດ ແລະ ອຸປະກອນໃຫ້ກົມທໍລະນີສາດ"
+              },
+              {
+                "image": "/images/business/mining/mining-12.jpeg",
+                "desc": "ພິທີມອບລົດ ແລະ ອຸປະກອນໃຫ້ກົມທໍລະນີສາດ"
+              }
+            ]
+          },
+          {
+            "name": "桑通區特許經營合同簽約儀式",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-21.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ສຳປະທານ ເມືອງສັງທອງ"
+              },
+              {
+                "image": "/images/business/mining/mining-22.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ສຳປະທານ ເມືອງສັງທອງ"
+              },
+              {
+                "image": "/images/business/mining/mining-23.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ສຳປະທານ ເມືອງສັງທອງ"
+              },
+              {
+                "image": "/images/business/mining/mining-24.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ສຳປະທານ ເມືອງສັງທອງ"
+              }
+            ]
+          },
+          {
+            "name": "Dukjuieng 區和 Kaluem 區黃金勘探合同簽約儀式",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-31.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ຊອກຄົ້ນສຳຫຼວດ ບໍ່ຄຳເມືອງດັກຈື່ງ ແລະ ເມືອງກະລືມ"
+              },
+              {
+                "image": "/images/business/mining/mining-32.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ຊອກຄົ້ນສຳຫຼວດ ບໍ່ຄຳເມືອງດັກຈື່ງ ແລະ ເມືອງກະລືມ"
+              },
+              {
+                "image": "/images/business/mining/mining-33.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ຊອກຄົ້ນສຳຫຼວດ ບໍ່ຄຳເມືອງດັກຈື່ງ ແລະ ເມືອງກະລືມ"
+              },
+              {
+                "image": "/images/business/mining/mining-34.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ຊອກຄົ້ນສຳຫຼວດ ບໍ່ຄຳເມືອງດັກຈື່ງ ແລະ ເມືອງກະລືມ"
+              }
+            ]
+          },
+          {
+            "name": "Phongsaly 煤礦簽約儀式",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-41.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ຖ່ານຫີນ ຜົ້ງສາລີ"
+              },
+              {
+                "image": "/images/business/mining/mining-42.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ຖ່ານຫີນ ຜົ້ງສາລີ"
+              },
+              {
+                "image": "/images/business/mining/mining-43.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ຖ່ານຫີນ ຜົ້ງສາລີ"
+              },
+              {
+                "image": "/images/business/mining/mining-44.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ຖ່ານຫີນ ຜົ້ງສາລີ"
+              }
+            ]
+          },
+          {
+            "name": "瑯勃拉邦鐵礦開採簽約儀式",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-51.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              },
+              {
+                "image": "/images/business/mining/mining-52.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              },
+              {
+                "image": "/images/business/mining/mining-53.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              },
+              {
+                "image": "/images/business/mining/mining-54.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              },
+              {
+                "image": "/images/business/mining/mining-55.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              },
+              {
+                "image": "/images/business/mining/mining-56.jpg",
+                "desc": "ພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກ ຫຼວງພະບາງ"
+              }
+            ]
+          },
+          {
+            "name": "Viengxay 地區鐵礦開採合同簽字儀式",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-61.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-62.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-63.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-64.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-65.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-66.jpg",
+                "desc": "ຮູບພິທີເຊັນສັນຍາ ບໍ່ເຫຼັກເຂດ ເມືອງວຽງໄຊ"
+              }
+            ]
+          },
+          {
+            "name": "Viengxay 區鐵礦開採項目",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/mining/mining-71.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-72.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-73.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-74.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-75.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-76.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-77.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-78.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-79.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              },
+              {
+                "image": "/images/business/mining/mining-710.png",
+                "desc": "ໂຄງການ ບໍ່ເຫຼັກ ເຂດເມືອງວຽໄຊ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "smartCity": {
+    "lao": [
+      {
+        "title": "ໂຄງການພັດທະນາເມືອງທັນສະໄໝ ເມືອງຫາດຊາຍຟອງ ແລະ ເມືອງໄຊເສດຖາ ນະຄອນຫຼວງວຽງຈັນ",
+        "image": "/images/business/smart-city/nongphean.jpg",
+        "index": "nongphean-smart-city",
+        "description": [
+          {
+            "indicator": "title",
+            "desc": "ສະພາບລວມ"
+          },
+          {
+            "indicator": "main",
+            "desc": "ບໍລິສັດ ກຸ່ມດວງຈະເລີນ ເປັນບໍລິສັດໜຶ່ງທີ່ມີວິໃສທັດເບີ່ງກວ້າງມອງໄກ ຈື່ງໄດ້ເລັງເຫັນຄວາມສຳຄັນໃນການພັດທະນາເມືອງທັນສະໄໝໃນອານາຄົດ ຈື່ງໄດ້ສະເໜີຫານະຄອນຫຼວງ ເພື່ອຂໍລົງທືນພັດທະນາສ້າງເມືອງ ທັນສະໄໝໃຫ້ແກ່ນະຄອນຫຼວງ. ການນຳແຕ່ລະຂັ້ນ ທັງຂັ້ນກະຊວງ, ນະຄອນຫຼວງ, ເມືອງ ແລະ ບ້ານ ແມ່ນໄດ້ເອົາໃຈໃສ່ຕໍ່ໂຄງການ ແຕ່ງຕັ້ງຄະນະກຳມະການ ເຮັດວຽກຮ່ວມກັບ ບໍລິສັດ ເພື່ອລົງເຮັດວຽກເຜີຍແຜ່ແນວຄິດການເມືອງ; ຜ່ານການລົງເຮັດວຽກເຜີຍແຜແນວຄິດການເມືອງ ແລະ ແຜນພັດທະນາຂອງບໍລິສັດ ຕໍ່ອຳນາດການປົກຄອງບ້ານ, ເຖົ້າແກ່ແນວໂຮມແຕ່ລະບ້ານທັງໝົດ 10 ບ້ານ ໂດຍພື້ນຖານອໍານາດການປົກຄອງ ແລະ ປະຊາຊົນແມ່ນເຫັນດີ ແລະ ສະໜັບສະໜູນໃຫ້ການຮ່ວມມືບໍ່ຂັດຂ້ອງແນວທາງຂອງພັກລັດ.ຜ່ານການຈັດຕັ້ງປະຕິບັດ ການລົງເກັບກຳຂໍ້ມູນຕົວຈິງ ຂອງໂຄງການໃນເບື້ອງຕົ້ນ ກົມທີ່ໄດ້ຢັ້ງຢືນຂອບເຂດສຶກສາຄວາມເປັນໄປໄດ້ຂອງໂຄງການ ມີເນື້ອທີ່ 2,900 ຮຕ. "
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ໂຄງການພັດທະນາເມືອງທັນສະໄໝ ເມືອງຫາດຊາຍຟອງ ແລະ ເມືອງໄຊເສດຖາ ນະຄອນຫຼວງວຽງຈັນ",
+            "itemDetail": [{ "title": "ບໍ່ມີຂໍ້ມູນ", "desc": "ບໍ່ມີຂໍ້ມູນ" }],
+            "images": [
+              "/images/business/smart-city/nongphean.jpg",
+              "/images/business/smart-city/nongphean-1.jpeg",
+              "/images/business/smart-city/nongphean-2.jpeg"
+            ],
+            "video": {
+              "title": "ເຂດເສດຖະກິດພິເສດໜອງແປນ",
+              "src": "https://www.youtube.com/embed/Via8ZlnHDwM"
+            }
+          }
+        ]
+      }
+    ],
+    "english": [
+      {
+        "title": "Smart City Development Project in Hatxayfong District and Saysettha District, Vientiane Capital",
+        "image": "/images/business/smart-city/nongphean.jpg",
+        "index": "nongphean-smart-city",
+        "description": [
+          {
+            "indicator": "title",
+            "desc": "Overview"
+          },
+          {
+            "indicator": "main",
+            "desc": "Duangchalern Development and Construction Group Company is a company that has a far-sighted vision and has seen the importance of developing a modern city in the future. Therefore, it has proposed capital to invest in the development of a modern city for the capital. The leadership at each level including the ministry, the capital city, the district and the village are paying attention to the project of appointing a committee to work with the company to work on disseminating political ideas; Through the work of disseminating the political ideas and development plans of the company to the village authorities, the elders united each village in total 10 villages based on the authorities and the people agreeing and supporting the cooperation without interfering with the guidelines of the state party. Through the implementation of the actual data collection of the initial project, the Department confirmed the scope of the feasibility study of the project with an area of 2,900 hectare."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "Smart City Development Project in Hatxayfong District and Saysettha District, Vientiane Capital",
+            "itemDetail": [
+              {
+                "title": "There is no information",
+                "desc": "There is no information"
+              }
+            ],
+            "images": [
+              "/images/business/smart-city/nongphean.jpg",
+              "/images/business/smart-city/nongphean-1.jpeg",
+              "/images/business/smart-city/nongphean-2.jpeg"
+            ],
+            "video": {
+              "title": "Nong Phan Special Economic Zone",
+              "src": "https://www.youtube.com/embed/Via8ZlnHDwM"
+            }
+          }
+        ]
+      }
+    ],
+    "chiness": [
+      {
+        "title": "萬象首都哈賽豐區和賽色塔區智慧城市發展項目",
+        "image": "/images/business/smart-city/nongphean.jpg",
+        "index": "nongphean-smart-city",
+        "description": [
+          {
+            "indicator": "title",
+            "desc": "概述"
+          },
+          {
+            "indicator": "main",
+            "desc": "Duangchalern 開發建設集團公司是一家具有遠見卓識的公司，已經看到了未來發展現代化城市的重要性。 因此，提出了資本投資，為首都建設一座現代化的城市。 部、市、區、村各級領導抓緊抓好委派會同企業開展思想傳播工作； 通過向村當局傳播公司的政治理念和發展計劃，長老們在不干涉國家指導方針的情況下，在當局和人民同意和支持合作的基礎上，將總共 10 個村莊的每個村莊團結起來。 通過前期項目實際數據收集的實施，該部門確定了該項目可研範圍為2900公頃。"
+          }
+        ],
+        "listItem": [
+          {
+            "name": "萬象首都哈賽豐區和賽色塔區智慧城市發展項目",
+            "itemDetail": [{ "title": "沒有信息", "desc": "沒有信息" }],
+            "images": [
+              "/images/business/smart-city/nongphean.jpg",
+              "/images/business/smart-city/nongphean-1.jpeg",
+              "/images/business/smart-city/nongphean-2.jpeg"
+            ],
+            "video": {
+              "title": "農攀經濟特區",
+              "src": "https://www.youtube.com/embed/Via8ZlnHDwM"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "it": {
+    "lao": [
+      {
+        "title": "ເທັກໂນໂລຢີ່ ຂໍ້ມູນຂ່າວສານ",
+        "image": "",
+        "index": "it",
+        "description": [
+          {
+            "indicator": "title",
+            "desc": "ໂຄງການພັດທະນາເເອັບລາວເເຊັດ"
+          },
+          {
+            "indicator": "main",
+            "desc": "ໃນປະຈຸບັນການຂະຫຍາຍຕົວຂອງເຕັກໂນໂລຊີມີການພັດທະນາຢ່າງໃຫຍ່ຫຼວງ ເເລະ ມີການນຳໃຊ້ເຕັກໂນໂລຊີເຂົ້າໃນວຽກງານໃນຫຼາຍຂະເເໜງການ. ພ້ອມດຽວກັນນັ້ນລັດຖະບານກໍ່ໄດ້ມີນະໂຍບາຍການຫັນເປັນທັນສະໄໝ ເເລະ ສອດຄ່ອງກັບນະໂຍບາຍການພັດທະນາເສດຖະກິດ ດີຈີຕອນ ໃນ ສປປລາວ. ບໍລິສັດ ກຸ່ມດວງຈະເລີນຍັງໄດ້ຕັ້ງ ບໍລິສັດ ໄອທີ ເພື່ອສະໜອງການແກ້ໄຂບັນຫາໄອທີຄົບວົງຈອນໃຫ້ ພາກລັດຖະບານ ແລະ ວິສະຫະກິດຕ່າງໆ ເພື່ອສະໜັບສະໜູນການດຳເນີນທຸລະກິດ ແລະ ການບໍລິການຂອງພວກເຂົາໃຫ້ມີຄຸນນະພາບາສູງຂື້ນ."
+          },
+          {
+            "indicator": "main",
+            "desc": "ການພັດທະນາເເອັບລາວເເຊັດເປັນໂຄງການພັດທະນາເເອັບສື່ສານທຳອິດຂອງລາວ ທີີ່ຈະອຳນວຍຄວາມສະດວກໃຫ້ຜູ້ໃຊ້ງານ ຕິດຕໍ່ສື່ສານໃນຊິວິດປະຈຳວັນພ້ອມທັງ ສາມາດເຂົ້າເຖີງການບໍລິການ ຂອງພາກລັດ ເເລະ ເອກະຊົນໄດ້ຢ່າງວ່ອງໄວ ເເລະ ທັນສະໄໝ."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ພິທີເຊັນສັນຍາໂຄງການ ແອັບລາວແຊັດ ແລະ ລະບົບລະຫັດສຸຂະພາບ",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/it/loudchat-health-system-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/loudchat-health-system-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/loudchat-health-system-3.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/loudchat-health-system-4.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/loudchat-health-system-5.png",
+                "desc": ""
+              }
+            ]
+          },
+          {
+            "name": "ໂຄງການພັດທະນາ ລະບົບການຂຶ້ນທະບຽນແຮງງານແບບທັນສະໄໝຂອງ ສປປ ລາວ",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/it/labour-registration-system-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/labour-registration-system-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/labour-registration-system-3.png",
+                "desc": ""
+              }
+            ]
+          },
+          {
+            "name": "ໂຄງການພັດທະນາ ລະບົບສູນການແລກປ່ຽນຂໍ້ມູນພາກລັດ",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/it/government-data-exchange-system-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-3.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-4.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-5.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-6.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-7.png",
+                "desc": ""
+              }
+            ]
+          },
+          {
+            "name": "ໂຄງການພັດທະນາ ລະບົບຄຸ້ມຄອງການເກັບລາຍຮັບພາສີທີ່ດິນ",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/it/land-tax-control-system-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-3.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-4.jpg",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-5.jpg",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-6.jpg",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-7.jpg",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-8.jpg",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-9.jpg",
+                "desc": ""
+              }
+            ]
+          },
+          {
+            "name": "ສວນສາທາລະນະ ເທັກໂນ",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/it/techno-park-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-3.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-4.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-5.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-6.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-7.png",
+                "desc": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "english": [
+      {
+        "title": "Information Technology",
+        "image": "",
+        "index": "it",
+        "description": [
+          {
+            "indicator": "title",
+            "desc": "LoudChat Application Development Project"
+          },
+          {
+            "indicator": "main",
+            "desc": "At present, the growth of technology has developed greatly and technology has been used in many industries. At the same time, the government has a policy of modernization and in line with the policy of developing the digital economy in the Lao PDR. Duang Charoen Group has also established an IT company to provide comprehensive IT solutions to government departments and businesses to support their business operations and services with higher quality."
+          },
+          {
+            "indicator": "main",
+            "desc": "The development of the Laoset app is the first communication app development project that will facilitate users to communicate in daily life as well as access public and private services quickly and modernly."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "App LoudChat and Lao Green Code Signing Ceremony",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/it/loudchat-health-system-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/loudchat-health-system-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/loudchat-health-system-3.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/loudchat-health-system-4.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/loudchat-health-system-5.png",
+                "desc": ""
+              }
+            ]
+          },
+          {
+            "name": "Modern labor registration system development project of the Lao PDR",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/it/labour-registration-system-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/labour-registration-system-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/labour-registration-system-3.png",
+                "desc": ""
+              }
+            ]
+          },
+          {
+            "name": "The public data exchange system development project",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/it/government-data-exchange-system-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-3.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-4.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-5.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-6.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-7.png",
+                "desc": ""
+              }
+            ]
+          },
+          {
+            "name": "Development project for land tax revenue collection management system",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/it/land-tax-control-system-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-3.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-4.jpg",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-5.jpg",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-6.jpg",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-7.jpg",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-8.jpg",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-9.jpg",
+                "desc": ""
+              }
+            ]
+          },
+          {
+            "name": "Techno Park",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/it/techno-park-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-3.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-4.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-5.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-6.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-7.png",
+                "desc": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "chiness": [
+      {
+        "title": "信息技術",
+        "image": "",
+        "index": "it",
+        "description": [
+          {
+            "indicator": "title",
+            "desc": "LoudChat 應用程序開發項目"
+          },
+          {
+            "indicator": "main",
+            "desc": "目前，技術的增長已經有了很大的發展，技術已經應用於許多行業。 同時，政府制定了現代化政策，並符合老撾人民民主共和國發展數字經濟的政策。 Duang Charoen Group 還成立了一家 IT 公司，為政府部門和企業提供全面的 IT 解決方案，以支持他們更高質量的業務運營和服務。"
+          },
+          {
+            "indicator": "main",
+            "desc": "Laoset app的開發是第一個通信應用程序開發項目，將方便用戶在日常生活中進行交流，并快速、現代地訪問公共和私人服務。"
+          }
+        ],
+        "listItem": [
+          {
+            "name": "App LoudChat 與老撾綠碼簽約儀式",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/it/loudchat-health-system-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/loudchat-health-system-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/loudchat-health-system-3.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/loudchat-health-system-4.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/loudchat-health-system-5.png",
+                "desc": ""
+              }
+            ]
+          },
+          {
+            "name": "老撾人民民主共和國現代勞動登記制度發展項目",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/it/labour-registration-system-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/labour-registration-system-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/labour-registration-system-3.png",
+                "desc": ""
+              }
+            ]
+          },
+          {
+            "name": "公共信息交換中心系統開發項目",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/it/government-data-exchange-system-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-3.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-4.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-5.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-6.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/government-data-exchange-system-7.png",
+                "desc": ""
+              }
+            ]
+          },
+          {
+            "name": "土地稅收徵管系統開發項目",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/it/land-tax-control-system-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-3.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-4.jpg",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-5.jpg",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-6.jpg",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-7.jpg",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-8.jpg",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/land-tax-control-system-9.jpg",
+                "desc": ""
+              }
+            ]
+          },
+          {
+            "name": "科技園",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/it/techno-park-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-3.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-4.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-5.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-6.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/it/techno-park-7.png",
+                "desc": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "trade": {
+    "lao": [
+      {
+        "title": "ການຄ້າ",
+        "image": "",
+        "index": "trade",
+        "description": [
+          {
+            "indicator": "title",
+            "desc": ""
+          },
+          {
+            "indicator": "main",
+            "desc": "ບໍລີສັດ ກຸ່ມດວງຈະເລີນ ມີເຄືອຂ່າຍຜູ້ສະໜອງ ທີ່ເຂັ້ມແຂງຈາກປະເທດເພື່ອນບ້ານ ແລະ ພາກພື້ນ. ດ້ວຍເຄືອຂ່າຍທີ່ເຂັ້ມແຂງເຫຼົ່ານີ້ ບໍລິສັດ ຈຶ່ງສາມາດສະໜອງ ອຸປະກອນ, ພາຫະນະ ແລະ ກົນຈັກໃຫ້ບັນດາຫົວໜ່ວຍທຸລະກິດ, ອົງການຂອງລັດຖະບານ ແລະ ລູກຄ້າທົ່ວໄປ ດ້ວຍສິນຄ້າທີ່ມີຄຸນນິພາບ, ລາຄາທີ່ເໝາະສົມ ແລະ ມີການບໍລິການຫລັງການຂາຍທີ່ດີ."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "ການນຳເຂົ້າພະຫະນະກົນຈັກ ແລະ ວັດຖຸ-ອຸປະກອນກໍ່ສ້າງ",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/trade/import-vehicle-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/trade/import-vehicle-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/trade/import-vehicle-3.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/trade/import-vehicle-4.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/trade/import-vehicle-5.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/trade/import-vehicle-6.png",
+                "desc": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "english": [
+      {
+        "title": "Information Technology",
+        "image": "",
+        "index": "trade",
+        "description": [
+          {
+            "indicator": "title",
+            "desc": ""
+          },
+          {
+            "indicator": "main",
+            "desc": "Duang Charoen Group Company has a strong network of suppliers from neighboring countries and regions. With these strong networks, the company can provide equipment, vehicles and machinery to business units, government agencies and general customers with quality products, reasonable prices and good after-sales service."
+          }
+        ],
+        "listItem": [
+          {
+            "name": "Import vehicles and construction materials",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/trade/import-vehicle-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/trade/import-vehicle-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/trade/import-vehicle-3.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/trade/import-vehicle-4.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/trade/import-vehicle-5.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/trade/import-vehicle-6.png",
+                "desc": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "chiness": [
+      {
+        "title": "信息技術",
+        "image": "",
+        "index": "trade",
+        "description": [
+          {
+            "indicator": "title",
+            "desc": ""
+          },
+          {
+            "indicator": "main",
+            "desc": "Duang Charoen 集團公司擁有來自周邊國家和地區的強大供應商網絡。 憑藉這些強大的網絡，公司能夠以優質的產品、合理的價格和良好的售後服務為事業單位、政府機構和廣大客戶提供設備、車輛和機械。"
+          }
+        ],
+        "listItem": [
+          {
+            "name": "進口車輛和建築材料",
+            "itemDetail": [
+              {
+                "title": "",
+                "desc": ""
+              }
+            ],
+            "images": [
+              {
+                "image": "/images/business/trade/import-vehicle-1.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/trade/import-vehicle-2.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/trade/import-vehicle-3.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/trade/import-vehicle-4.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/trade/import-vehicle-5.png",
+                "desc": ""
+              },
+              {
+                "image": "/images/business/trade/import-vehicle-6.png",
+                "desc": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

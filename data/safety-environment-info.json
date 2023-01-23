@@ -1,0 +1,122 @@
+{
+  "lao": {
+    "titleSatety": "ນະໂຍບາຍດ້ານຄວາມປອດໄພ",
+    "descriptionSatety": [
+      "ການປະຕິບັດງານດ້ານຄວາມປອດໄພ ແລະ ສຸຂະພາບຂອງແຮງງານແມ່ນປັດໃຈຂອງການບໍລິຫານວຽກງານການກໍ່ສ້າງທີ່ຕ້ອງເຮັດຄວບຄູ່ໄປກັບຜົນງານຄຸນນະພາບຂອງ ບໍລິສັດ ກຸ່ມດວງຈະເລີນພັດທະນາກໍ່ສ້າງ ຈໍາກັດຜູ້ດຽວ. ຖືເປັນນະໂຍບາຍທີ່ຕ້ອງການໃຫ້ເປັນມາດຕະຖານສູງສຸດເພືິ່ອໃຫ້ເກີດຄວາມປອດໄພ ແລະ ຄວມຄຸມການສູນເສຍຈາກອຸບັດຕິເຫດໃຫ້ມີປະສິດທິພາບໂດຍ.",
+      "ພະນັກງານທຸກຄົນໄດ້ເອົາໃຈໃສ່ໃນດ້ານການດູແລຮັກສາສຸຂະພາບ ແລະ ຄວາມປອດໄພຂອງຕົນ ແລະ ຜູ້ທີ່ກ່ຽວຂ້ອງກັບການປະຕິບັດງານ. ນອກຈາກນັ້ນ ທາງບໍລິສັດໃຫ້ຖືເອົາຄວາມປອດໄພເປັນວຽກງານທີ່ຈະຕ້ອງເຮັດໃຫ້ສຳເລັດ ແລະ ຈະຕ້ອງຄຳນືງເຖິງກ່ອນສະເໝີ."
+    ],
+    "titleEnvironment": "ນະໂຍບາຍດ້ານສິ່ງແວດລ້ອມ",
+    "descriptionEnvironment": [
+      "ໃນດ້ານການດຳເນີນງານການກໍ່ສ້າງຂອງບໍລິສັດ ອາດກໍ່ໃຫ້ເກີດຜົນກະທົບຕໍ່ສິ່ງແວດລ້ອມໄດ້ໃນບາງກໍລະນີ. ແຕ່ເຖິງຢ່າງໃດກໍ່ຕາມ ບໍລິສັດພວກເຮົາຮັບຮູ້ເຖິງຜົນກະທົບເປັນສິ່ງສຳຄັນນອກເໜືອຈາກການປະຕິບັດງານຕາມລະບຽບ ແລະ ກົດລະບຽບໃນການອະນຸລັກສິ່ງແວດລ້ອມ, ບໍລິສັດພວກເຮົາໄດ້ກະກຽມມາດຕະການຕ່າງໆ ເພື່ອຮັບມືກັບຜົນກະທົບສິ່ງແວດລ້ອມທີ່ອາດຈະເກີດຂື້ນຈາກການດໍາເນີນງານຂອງບໍລິສັດດັ່ງຕໍ່ໄປນີ້ :",
+      "ບໍລິສັດໄດ້ປະຕິບັດຕາມມາດຕະຖານການຫຼຸດຜ່ອນຜົນກະທົບຕໍ່ສິ່ງແວດລ້ອມ ແລະ ການກວດກາຄຸນນະພາບຂອງສະພາບແວດລ້ອມເບື້ອງຕົ້ນໃນໄລຍະການກໍ່ສ້າງຢ່າງເຂັ້ມງວດ ເພື່ອໃຫ້ຜົນກະທົບຕໍ່ສິ່ງແວດລ້ອມ ແລະ ຊຸມຊົນເທົ່າທີ່ຈະເປັນໄປໄດ້. ບໍລິສັດ ຍັງປະຕິບັດຕາມຄຳແນະນຳຂອງຜູ້ຊ່ຽວຊານທີ່ກ່ຽວຂ້ອງ ແລະ ອົງການຈັດຕັ້ງຂອງລັດຖະບານ."
+    ],
+    "subDescriptionEnvironment": [
+      {
+        "name": "ຄຸນນະພາບທາງອາກາດ",
+        "desc": [
+          "ອະນາໄມສະຖານທີ່ກໍ່ສ້າງ ເພື່ອປ້ອງກັນການກະແຈກກະຈາຍຂອງຂີ້ຜຸ່ນຕະຫຼອດໄລຍະກໍ່ສ້າງ.",
+          "ໃຊ້ນ້ຳສິດໃນບໍລິເວນທີ່ອາດຈະເຮັດໃຫ້ເກີດການກະຈ່າຍຂອງຂີ້ຝຸ່ນເຊັ່ນ: ພື້ນທີ່ເປີດ ຫຼື ການຂຸດຄົ້ນ.",
+          "ນຳໃຊ້ຕາໜ່າງອ້ອມພື້ນທີ່ການກໍ່ສ້າງທີ່ຕິດກັບຊຸມຊົນໃກ້ຄຽງ ເພື່ອຈະກັ່ນຕອງຂີ້ຝຸ່ນໃນລະດັບທີ່ຍອມຮັບບໍ່ໄດ້.",
+          "ກວດກາ, ບຳລຸງ, ຮັກສາເສັ້ນທາງການຈະລາຈອນສາທາລະນະທີ່ນຳໃຊ້ໃຫ້ຢູ່ໃນສະພາບເດີມ ຫຼື ດີກວ່າເກົ່າ ພ້ອມທັງປະຕິບັດລະບຽບການຂົນສົ່ງຢ່າງເຂັ້ມງວດ."
+        ]
+      },
+      {
+        "name": "ແຫຼ່ງຊຸມຊົນ",
+        "desc": [
+          "ນຳໃຊ້ເຄື່ອງຈັກທີ່ມີການບໍລຸງຮັກສາຢູ່ສະເໝີເພື່ອປ້ອງການສຽງດັງ.",
+          "ຕິດປ້າຍປະກາດແຈ້ງລາຍລະອຽດຊື່ ແລະ ສະຖານທີ່ຕິດຕໍ່ ເພື່ອຮັບຄຳຮ້ອງ ແລະ ຂໍ້ສະເໜີ.",
+          "ໃຫ້ຄວາມຊ່ວຍເຫຼືອແກ່ຊຸມຊົນ ດັ່ງທີ່ບໍລິສັດມີນະໂຍບາຍຊ່ວຍເຫຼືອສັງຄົມ."
+        ]
+      }
+    ],
+    "document": {
+      "title": "ເອກະສານທີ່ກ່ຽວຂ້ອງ",
+      "listDocument": [
+        {
+          "title": "ນະໂຍບາຍທາງດ້ານຄວາມປອດໄພ ແລະ ສິ່ງແວດລ້ອມ",
+          "file": "/files/about/safety-environment.pdf"
+        }
+      ]
+    }
+  },
+  "english": {
+    "titleSatety": "Safety policy",
+    "descriptionSatety": [
+      "Labor safety and health operations are the factors of construction management that must be coordinated with the quality performance of Duang Charoen Construction Development Group Limited. It is considered a policy that requires the highest standards to ensure safety and effectively control losses from accidents.",
+      "All employees are concerned about the health and safety of themselves and those involved in the operation. In addition, the company should consider safety as a task that must be completed and must always be mentioned first."
+    ],
+    "titleEnvironment": "Environmental policy",
+    "descriptionEnvironment": [
+      "In terms of the company's construction operations, it may cause an impact on the environment in some cases. However, our company recognizes that the impact is important in addition to operating according to the rules and regulations in environmental conservation, our company has prepared various measures to deal with the environmental impact that may arise from the company's operations as follows:",
+      "The company has followed the standard of reducing the impact on the environment and inspecting the quality of the initial environment during the construction phase in order to impact the environment and the community as much as possible. The company also follows the recommendations of relevant experts and government organizations."
+    ],
+    "subDescriptionEnvironment": [
+      {
+        "name": "Air quality",
+        "desc": [
+          "Clean the construction site to prevent dust dispersion throughout the construction phase.",
+          "Use water directly in areas that may cause dust dispersion, such as open areas or excavations.",
+          "Use netting around construction sites adjacent to neighboring communities to filter out unacceptable levels of dust.",
+          "Inspect, maintain, and maintain public traffic routes that are used in the same or better condition as well as strictly implement transportation regulations."
+        ]
+      },
+      {
+        "name": "Community area",
+        "desc": [
+          "Always use a well-maintained engine to prevent noise.",
+          "Put up a sign announcing the name and contact details to receive requests and proposals.",
+          "Provide assistance to the community as the company has a social assistance policy."
+        ]
+      }
+    ],
+    "document": {
+      "title": "Related documents",
+      "listDocument": [
+        {
+          "title": "Safety and environmental policy",
+          "file": "/files/about/safety-environment.pdf"
+        }
+      ]
+    }
+  },
+  "chiness": {
+    "titleSatety": "安全方針",
+    "descriptionSatety": [
+      "勞動安全和健康運營是施工管理的要素，必須與 Duangchlern Construction Development Group Limited 的質量績效相協調。 它被認為是一項需要最高標準以確保安全並有效控制事故損失的政策。",
+      "所有員工都關心自己和參與運營的人員的健康和安全。 此外，公司應將安全視為一項必須完成的任務，並且必須始終首先提及。"
+    ],
+    "titleEnvironment": "環境政策",
+    "descriptionEnvironment": [
+      "就公司的建設業務而言，在某些情況下可能會對環境造成影響。但是，本公司認識到影響的重要性，除了按照環境保護的規章制度進行經營外，本公司針對本公司經營活動可能產生的環境影響，準備了以下各項措施：",
+      "公司在施工階段遵循減少對環境的影響和檢查初始環境質量的標準，以盡可能地影響環境和社區。 該公司還遵循相關專家和政府機構的建議。"
+    ],
+    "subDescriptionEnvironment": [
+      {
+        "name": "空氣質量",
+        "desc": [
+          "清潔施工現場，以防止灰塵在整個施工階段擴散。",
+          "直接在可能導致灰塵擴散的區域使用水，例如開放區域或挖掘區域。",
+          "在鄰近社區的建築工地周圍使用網過濾掉不可接受的灰塵。",
+          "檢查、維護和維護使用狀況相同或更好的公共交通路線，嚴格執行交通法規。"
+        ]
+      },
+      {
+        "name": "社區資源",
+        "desc": [
+          "始終使用維護良好的發動機以防止噪音。",
+          "放置一個標語，宣布姓名和聯繫方式，以接收請求和建議。",
+          "向社區提供援助，因為公司有社會援助政策。"
+        ]
+      }
+    ],
+    "document": {
+      "title": "相關文件",
+      "listDocument": [
+        {
+          "title": "安全環保政策",
+          "file": "/files/about/safety-environment.pdf"
+        }
+      ]
+    }
+  }
+}

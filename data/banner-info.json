@@ -1,0 +1,146 @@
+[
+  {
+    "text": {
+      "lao": "ການກໍ່ສ້າງ",
+      "english": "Construction",
+      "chiness": "建造"
+    },
+    "image": "construction.jpg",
+    "link": "/business/construction",
+    "desc1": {
+      "lao": "ໜຶ່ງໃນບໍ​ລິ​ສັດ ຊັ້ນ​​ນໍາ​ໃນ​ປະ​ເທດ​ລາວ",
+      "english": "a leader company in lao P.D.R",
+      "chiness": "老撾人民民主共和國的領軍企業"
+    },
+    "desc2": {
+      "lao": "ພວກເຮົາມີຄວາມສຸກ",
+      "english": "we will be happy",
+      "chiness": "我們會很開心"
+    },
+    "desc3": {
+      "lao": "ທີ່ໄດ້ເຮັດວຽກໃຫ້ກັບພວກທ່ານ",
+      "english": "to take care of your work",
+      "chiness": "照顧你的工作"
+    }
+  },
+  {
+    "text": {
+      "lao": "ພະລັງງານ",
+      "english": "Energy",
+      "chiness": "活力"
+    },
+    "image": "energy.jpg",
+    "link": "/business/energy",
+    "desc1": {
+      "lao": "ໜຶ່ງໃນບໍ​ລິ​ສັດ ຊັ້ນ​​ນໍາ​ໃນ​ປະ​ເທດ​ລາວ",
+      "english": "a leader company in lao P.D.R",
+      "chiness": "老撾人民民主共和國的領軍企業"
+    },
+    "desc2": {
+      "lao": "ພວກເຮົາມີຄວາມສຸກ",
+      "english": "we will be happy",
+      "chiness": "我們會很開心"
+    },
+    "desc3": {
+      "lao": "ທີ່ໄດ້ເຮັດວຽກໃຫ້ກັບພວກທ່ານ",
+      "english": "to take care of your work",
+      "chiness": "照顧你的工作"
+    }
+  },
+  {
+    "text": {
+      "lao": "ການຂຸດຄົ້ນບໍ່ແຮ່",
+      "english": "Mining",
+      "chiness": "礦業"
+    },
+    "image": "mining.jpg",
+    "link": "/business/mining",
+    "desc1": {
+      "lao": "ໜຶ່ງໃນບໍ​ລິ​ສັດ ຊັ້ນ​​ນໍາ​ໃນ​ປະ​ເທດ​ລາວ",
+      "english": "a leader company in lao P.D.R",
+      "chiness": "老撾人民民主共和國的領軍企業"
+    },
+    "desc2": {
+      "lao": "ພວກເຮົາມີຄວາມສຸກ",
+      "english": "we will be happy",
+      "chiness": "我們會很開心"
+    },
+    "desc3": {
+      "lao": "ທີ່ໄດ້ເຮັດວຽກໃຫ້ກັບພວກທ່ານ",
+      "english": "to take care of your work",
+      "chiness": "照顧你的工作"
+    }
+  },
+  {
+    "text": {
+      "lao": "ອະສັງຫາລິມະຊັບ",
+      "english": "Real Estate",
+      "chiness": "房地產"
+    },
+    "image": "real-estate.jpg",
+    "link": "/business/real-estate",
+    "desc1": {
+      "lao": "ໜຶ່ງໃນບໍ​ລິ​ສັດ ຊັ້ນ​​ນໍາ​ໃນ​ປະ​ເທດ​ລາວ",
+      "english": "a leader company in lao P.D.R",
+      "chiness": "老撾人民民主共和國的領軍企業"
+    },
+    "desc2": {
+      "lao": "ພວກເຮົາມີຄວາມສຸກ",
+      "english": "we will be happy",
+      "chiness": "我們會很開心"
+    },
+    "desc3": {
+      "lao": "ທີ່ໄດ້ເຮັດວຽກໃຫ້ກັບພວກທ່ານ",
+      "english": "to take care of your work",
+      "chiness": "照顧你的工作"
+    }
+  },
+  {
+    "text": {
+      "lao": "ເມືອງອັດສະລິຍະ",
+      "english": "Smart City",
+      "chiness": "智慧城市"
+    },
+    "image": "smart-city.jpg",
+    "link": "/business/smart-city",
+    "desc1": {
+      "lao": "ໜຶ່ງໃນບໍ​ລິ​ສັດ ຊັ້ນ​​ນໍາ​ໃນ​ປະ​ເທດ​ລາວ",
+      "english": "a leader company in lao P.D.R",
+      "chiness": "老撾人民民主共和國的領軍企業"
+    },
+    "desc2": {
+      "lao": "ພວກເຮົາມີຄວາມສຸກ",
+      "english": "we will be happy",
+      "chiness": "我們會很開心"
+    },
+    "desc3": {
+      "lao": "ທີ່ໄດ້ເຮັດວຽກໃຫ້ກັບພວກທ່ານ",
+      "english": "to take care of your work",
+      "chiness": "照顧你的工作"
+    }
+  },
+  {
+    "text": {
+      "lao": "ກະສິກຳ",
+      "english": "Agriculture",
+      "chiness": "農業"
+    },
+    "image": "agriculture.jpg",
+    "link": "/business/agriculture",
+    "desc1": {
+      "lao": "ໜຶ່ງໃນບໍ​ລິ​ສັດ ຊັ້ນ​​ນໍາ​ໃນ​ປະ​ເທດ​ລາວ",
+      "english": "a leader company in lao P.D.R",
+      "chiness": "老撾人民民主共和國的領軍企業"
+    },
+    "desc2": {
+      "lao": "ພວກເຮົາມີຄວາມສຸກ",
+      "english": "we will be happy",
+      "chiness": "我們會很開心"
+    },
+    "desc3": {
+      "lao": "ທີ່ໄດ້ເຮັດວຽກໃຫ້ກັບພວກທ່ານ",
+      "english": "to take care of your work",
+      "chiness": "照顧你的工作"
+    }
+  }
+]

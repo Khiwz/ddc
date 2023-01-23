@@ -1,0 +1,93 @@
+{
+  "lao": {
+    "title": {
+      "vision": "ວິໄສທັດ",
+      "mission": "ເປົ້າໝາຍ",
+      "values": "ຄຸນຄ່າ",
+      "strategy": "ຍຸດທະສາດ"
+    },
+    "vision": [
+      "ເປັນຜູ້ນຳດ້ານທຸລະກິດການກໍ່ສ້າງ ແລະ ລົງທຶນພັດທະນາໂຄງສ້າງພື້ນຖານໂຄງລ່າງພາຍໃນປະເທດດ້ວຍຄຸນນະພາບ ແລະ ມາດຕະຖານສູງ"
+    ],
+    "mission": [
+      "ສ້າງຜົນງານທີ່ມີຄຸນນະພາບ, ຕົງເວລາ, ລາຄາຍຸດຕິທ ໂດຍຄຳນຶງເຖິງຄວາມປອດໄພ.",
+      "ບໍລິຫານງານຈັດການໃຫ້ມີຄຸນນະພາບ, ມີການປັບປຸງອົງກອນຢ່າງຕໍ່ເນື່ອງ.",
+      "ສ້າງທຸລະກິດໃໝ່ໆ ເພື່ອກະຈ່າຍຖານລາຍໄດ້ ແລະ ຫຼຸດຄວາມສ່ຽງ.",
+      "ບໍລິຫານຕົ້ນທຶນໃຫ້ມີປະສິດທິພາບ ເພື່ອເພີ່ມຄວາມສາມາດໃນການແຂ່ງຂັນ."
+    ],
+    "values": [
+      "Quality of service: ຄຸນນະພາບງານມີມາດຕະຖານສູງ.",
+      "Customer: ຄວາມພໍໃຈຂອງລູກຄ້າ.",
+      "Integrity: ຄວາມສື່ສັດ ແລະ ມີຈັນຍາບັນໃນອາຊີບ.",
+      "Teamwork: ການເຮັດວຽກເປັນທີມ.",
+      "Social & Environment: ມີີຄວາມຮັບຜິດຊອບຕໍ່ສັງຄົມ, ສິ່ງແວດລ້ອມ ແລະ ປະເທດຊາດ."
+    ],
+    "strategy": [
+      "ເຕີບໂຕຢ່າງໝັ້ນຄົງ ແລະ ຢັ້ງຢືນ.",
+      "ເລືອກໂຄງການກໍ່ສ້າງທີ່ມີປະໂຫຍດຕໍ່ສັງຄົມ ແລະ ປະເທດຊາດໂດຍມີຜົນຕອບແທນທາງທຸລະກິດຢ່າງເປັນທຳ.",
+      "ຢຶດໝັ້ນໃນພັນທະສັນຍາ.",
+      "ມີການປັບຕົວ ແລະ ມີຄວາມຢືດຢຸ່ນໄປຕາມສະພາບຄວາມຮຽກຮ້ອງຕ້ອງການ ແລະ ທັນຍຸກທັນສະໄໝ."
+    ],
+    "slogan": ["\"ສ້າງສາ, ພັດທະນາ", "ກ້າວໜ້າ ຢ່າງບໍ່ຢຸດຢັ້ງ\""]
+  },
+  "english": {
+    "title": {
+      "vision": "Vision",
+      "mission": "Mission",
+      "values": "Values",
+      "strategy": "Strategy"
+    },
+    "vision": [
+      "To be a leader in the construction business and investment in the national infrastructure development with high quality and standards"
+    ],
+    "mission": [
+      "Create quality work, on time, fair deal with safety",
+      "Standard structure of organaization and management",
+      "Enter into new businesses to expand the revenue base and reduce risk",
+      "Effective cost management to increase competitiveness."
+    ],
+    "values": [
+      "Quality services",
+      "Customer satisfaction",
+      "Integrity",
+      "Teamwork",
+      "Social and environmental responsibility"
+    ],
+    "strategy": [
+      "Continous investment on national infrastructure development projects",
+      "Co-operate with quality international partners",
+      "Contribute to national social-economic development strategy",
+      "Commitment on industrial production to increase import-export"
+    ],
+    "slogan": ["\"Develop and grow", "continuously\""]
+  },
+  "chiness": {
+    "title": {
+      "vision": "想像",
+      "mission": "使命",
+      "values": "價值觀",
+      "strategy": "戰略"
+    },
+    "vision": ["以高質量和高標準成為國家基礎設施建設和投資業務的領導者"],
+    "mission": [
+      "以安全為中心, 按時, 公平的價格創造優質的工作",
+      "質量管理, 組織的持續改進。",
+      "建立新業務以擴大收入基礎並降低風險。",
+      "有效的成本管理以提高競爭力。"
+    ],
+    "values": [
+      "服務質量：工作質量高標準。",
+      "顧客：顧客滿意。",
+      "誠信：在職業中誠實和道德。",
+      "團隊合作：團隊合作。",
+      "社會與環境：對社會和環境負責 和 國家。"
+    ],
+    "strategy": [
+      "穩步、可持續地增長。",
+      "選擇對社會和國家有利、商業回報公平的建設項目。",
+      "堅守約。",
+      "根據必要的需求和最新的適應性和靈活性。"
+    ],
+    "slogan": ["\"創造、發展", "不 斷 進 步\""]
+  }
+}

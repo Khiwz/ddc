@@ -1,0 +1,62 @@
+{
+  "title": {
+    "lao": "ທາງ​ເລືອກ​ທີ່​ດີ​ທີ່​ສຸດ​ຂອງ​ທ່ານ​",
+    "english": "YOUR BEST CHOICE",
+    "chiness": "您的最佳選擇"
+  },
+  "description": {
+    "lao": "ຫຼາຍກວ່າ 150 ໂຄງການທີ່ດຳເນີນການສໍາເລັດພາຍໄຕ້ການບໍລິຫານຂອງ ກຸ່ມບໍລິສັດດວງຈະເລີນ, ດ້ວຍປະສົບການລວມຫຼາຍກວ່າ 25 ປີ, ພວກເຮົາມີຄວາມຮູ້ທີ່ຈະຮັບໃຊ້ທ່ານ.",
+    "english": "More than 150 projects completed by DDC Group - With over 25 years of combined experience, we are ready to serve you.",
+    "chiness": "DDC 集團完成了 150 多個項目 - 憑藉超過 25 年的綜合經驗，我們擁有為您服務的知識。"
+  },
+  "list": [
+    {
+      "title": {
+        "lao": "ວິໄສທັດ",
+        "english": "OUR MISSION",
+        "chiness": "我們的任務"
+      },
+      "desc": {
+        "lao": "ໃນທຸກໆໜ້າວຽກ, ພວກເຮົາຕ້ອງການມາດຕະຖານທີ່ມີຄຸນນະພາບສູງທີ່ສຸດໃນທຸກຜະລິດຕະພັນ ແລະ ການບໍລິການຂອງພວກເຮົາ.",
+        "english": "On every job, we demand the highest quality standards in all our products and services.",
+        "chiness": "在每項工作中，我們都要求我們的所有產品和服務都達到最高質量標準。"
+      }
+    },
+    {
+      "title": {
+        "lao": "ຄຸນະພາບດີທີ່ສຸດ",
+        "english": "BEST QUALITY",
+        "chiness": "最好的質量"
+      },
+      "desc": {
+        "lao": "ພວກເຮົາມຸ່ງຫມັ້ນທີ່ຈະຕອບສະຫນອງມາດຕະຖານຄຸນນະພາບສູງສຸດ ໂດຍບໍ່ມີການປະນີປະນອມ ແລະ ຮັກສາວັດທະນະທໍາຂອງພວກເຮົາ.",
+        "english": "We are committed to meet the highest quality standards without compromising our safety culture.",
+        "chiness": "我們致力於在不妥協和保留我們的文化的情況下達到最高質量標準。"
+      }
+    },
+    {
+      "title": {
+        "lao": "ຕົງ​ເວ​ລາ",
+        "english": "ON TIME",
+        "chiness": "準時"
+      },
+      "desc": {
+        "lao": "ພວກເຮົາເຄົາລົບເວລາຂອງລູກຄ້າ, ກໍານົດຕາຕະລາງເວລາງານ ແລະ ດຳເນີນໂຄງການສໍາເລັດຕາມເວລາທີ່ກຳນົດໄວ້ສະເໝີ.",
+        "english": "We respect the customer’s time, schedule and always complete the projects on time.",
+        "chiness": "我們尊重客戶的時間、進度並始終按時完成項目。"
+      }
+    },
+    {
+      "title": {
+        "lao": "ປະສົບການ",
+        "english": "EXPERIENCED",
+        "chiness": "經驗"
+      },
+      "desc": {
+        "lao": "ດ້ວຍປະສົບການຫຼາຍປີຂອງພວກເຮົາ, ທ່ານສາມາດໄວ້ວາງໃຈພວກເຮົາໄດ້ ເພື່ອໃຫ້ວຽກງານຂອງທ່ານດຳເນີນການສຳເລັດ.",
+        "english": "With our years of experience you can rely on us to get the job done on time.",
+        "chiness": "憑藉我們多年的經驗，您可以相信我們會準確地完成工作。"
+      }
+    }
+  ]
+}

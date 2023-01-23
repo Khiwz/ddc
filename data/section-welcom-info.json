@@ -1,0 +1,38 @@
+{
+  "title": {
+    "lao": "ຍິນດີຕ້ອນຮັບສູ່ ກຸ່ມບໍລິສັດ ດວງຈະເລີນ",
+    "english": "WELCOME TO DDC'S GROUP",
+    "chiness": "歡迎來到 DDC 的小組"
+  },
+  "description": {
+    "lao": "ພວກ​ເຮົາ​ໄດ້​ດຳເນີນການສຳ​ເລັດ​ຫຼາຍ​ໂຄງການ​ໃນຂອບເຂດ​ທົ່ວ ສປປ ລາວ ໂດຍອີງຕາມ​ວິ​ໄສ​ທັດ ​ແລະ ພາລະກິດ ​ທີ່​ຈະ​ແຈ້ງ​ຂອງ​ພວກ​ເຮົາ:",
+    "english": "We have successfully completed numerous projects across the Lao P.D.R according to our obvious visions and missions:",
+    "chiness": "根據我們明顯的願景和使命，我們已經在老撾人民民主共和國成功完成了許多項目："
+  },
+  "subDescription": {
+    "lao": [
+      "ເປັນຜູ້ນຳດ້ານທຸລະກິດການກໍ່ສ້າງ",
+      "ລົງທຶນພັດທະນາໂຄງສ້າງພື້ນຖານໂຄງລ່າງພາຍໃນປະເທດດ້ວຍຄຸນນະພາບ ແລະ ມາດຕະຖານສູງ",
+      "ສ້າງຜົນງານທີ່ມີຄຸນນະພາບ, ຕົງເວລາ, ລາຄາຍຸດຕິທຳໂດຍຄຳນຶງເຖິງຄວາມປອດໄພ",
+      "ບໍລິຫານງານຈັດການໃຫ້ມີຄຸນນະພາບ, ມີການປັບປຸງອົງກອນຢ່າງຕໍ່ເນື່ອງ.",
+      "ສ້າງທຸລະກິດໃໝ່ໆ ເພື່ອກະຈ່າຍຖານລາຍໄດ້ ແລະ ຫຼຸດຄວາມສ່ຽງ.",
+      "ບໍລິຫານຕົ້ນທຶນໃຫ້ມີປະສິດທິພາບ ເພື່ອເພີ່ມຄວາມສາມາດໃນການແຂ່ງຂັນ."
+    ],
+    "english": [
+      "A leader in the construction business",
+      "Invest in the development of domestic infrastructure with high quality and standards",
+      "Create quality work, on time, fair price with safety in mind",
+      "Quality management, continuous improvement of the organization.",
+      "Establish new businesses to expand the revenue base and reduce risk.",
+      "Effective cost management to increase competitiveness."
+    ],
+    "chiness": [
+      "建築業的領導者",
+      "投資發展高質量和高標準的國內基礎設施",
+      "以安全為中心, 按時, 公平的價格創造優質的工作",
+      "質量管理, 組織的持續改進。",
+      "建立新業務以擴大收入基礎並降低風險。",
+      "有效的成本管理以提高競爭力。"
+    ]
+  }
+}

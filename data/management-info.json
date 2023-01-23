@@ -1,0 +1,101 @@
+{
+  "lao": {
+    "titleManagement": { "title": "ຄະນະຜູ້ບໍລິຫານ", "description": "" },
+    "president": {
+      "name": "ທ່ານ ຄຳຜາຍ ສີລາຊາ",
+      "position": "ປະທານບໍລິສັດ",
+      "id": "MD00001"
+    },
+    "vicePresident1": {
+      "name": "ທ່ານ ນາງ ອາຊິງ ສີລາຊາ",
+      "position": "ຮອງປະທານບໍລິສັດ",
+      "id": "MD00003"
+    },
+    "vicePresident2": {
+      "name": "ທ່ານ ຄຳໝິງ ສີລາຊາ",
+      "position": "ຮອງປະທານບໍລິສັດ",
+      "id": "MD00004"
+    },
+    "vicePresident3": {
+      "name": "ທ່ານ ສຸລິໄຊ ໄຊຍະສານ",
+      "position": "ຮອງປະທານບໍລິສັດ",
+      "id": "MD00005"
+    },
+    "vicePresident4": {
+      "name": "ທ່ານ ຄຳພຽນ ສີດາວົງ",
+      "position": "ຮອງປະທານບໍລິສັດ",
+      "id": "MD00006"
+    },
+    "vicePresident5": {
+      "name": "ທ່ານ ຄູນຈະເລີນ ສີລາຊາ",
+      "position": "ຮອງປະທານບໍລິສັດ",
+      "id": "MD00007"
+    }
+  },
+  "english": {
+    "titleManagement": { "title": "Board of director", "description": "" },
+    "president": {
+      "name": "Mr. Khamphaiy SILAXA",
+      "position": "President",
+      "id": "MD00001"
+    },
+    "vicePresident1": {
+      "name": "Mrs. Axing SILAXA",
+      "position": "Vice President",
+      "id": "MD00003"
+    },
+    "vicePresident2": {
+      "name": "Mr. Khamming SILAXA",
+      "position": "Vice President",
+      "id": "MD00004"
+    },
+    "vicePresident3": {
+      "name": "Mr. Soulixay XAYYASAN",
+      "position": "Vice President",
+      "id": "MD00005"
+    },
+    "vicePresident4": {
+      "name": "Mr. Khamphien SIDAVONG",
+      "position": "Vice President",
+      "id": "MD00006"
+    },
+    "vicePresident5": {
+      "name": "Mr. Khounchalern SILAXA",
+      "position": "Vice President",
+      "id": "MD00007"
+    }
+  },
+  "chiness": {
+    "titleManagement": { "title": "董 事 會", "description": "" },
+    "president": {
+      "name": "Mr. Khamphaiy SILAXA",
+      "position": "總 統",
+      "id": ""
+    },
+    "vicePresident1": {
+      "name": "Mrs. Axing SILAXA",
+      "position": "副 總 統",
+      "id": ""
+    },
+    "vicePresident2": {
+      "name": "Mr. Khamming SILAXA",
+      "position": "副 總 統",
+      "id": ""
+    },
+    "vicePresident3": {
+      "name": "Mr. Soulixay XAYYASAN",
+      "position": "副 總 統",
+      "id": ""
+    },
+    "vicePresident4": {
+      "name": "Mr. Khamphien SIDAVONG",
+      "position": "副 總 統",
+      "id": ""
+    },
+    "vicePresident5": {
+      "name": "Mr. Khounchalern SILAXA",
+      "position": "副 總 統",
+      "id": ""
+    }
+  }
+}
